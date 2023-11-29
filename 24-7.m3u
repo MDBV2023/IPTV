@@ -1,272 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Buen Doctor  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-pnPkIa32QD4/XrkGirBhr2I/AAAAAAAAB70/Azfjx182F2IpYj8FlxNo7B7tJsF1qsB_gCLcBGAsYHQ/s200/the%2Bgood%2Bdoctor.png" group-title="24/7",24/7 El Buen Doctor  (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358976
-#EXTINF:-1 tvg-id="" tvg-name="24/7 NOVELAS ROMANCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wtLtzMgaoSLpztEr8kNpDnPjkwQsMfXGDg&usqp=CAU" group-title="24/7 TELENOVELAS",24/7 NOVELAS ROMANCE
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225533
-#EXTINF:-1 tvg-id="" tvg-name="24/7:EL CHAVO DEL 8 24/7" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="24/7",24/7:EL CHAVO DEL 8 24/7
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103841
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CASO CERRADO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAEK1MXja5WBcUZcK-6y7mOQyH021Cmd7E6Zo7Uu5IZ82pSdShdLiZdb8QYbFwV2s7mzc&usqp=CAU" group-title="24/7",24/7: CASO CERRADO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103844
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3" tvg-logo="http://daleplaypro.com:8080/images/7c17ac592bd9d05f47f90954934e9e49.jpg" group-title="INFANTILES 24/7",24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103848
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL SUPER" tvg-logo="https://i.pinimg.com/564x/f8/5d/3b/f85d3bd25ae48b3803102ae3431dd7d4.jpg" group-title="INFANTILES 24/7",24/7 SERIES INFANTILES | DRAGON BALL SUPER
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103891
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | CHAVO DEL OCHO" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="INFANTILES 24/7",24/7 SERIES INFANTILES | CHAVO DEL OCHO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103894
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | PICAPIEDRAS" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9MhSlot12I7qc0fQ9zVXQCdI_-YGTD534uZ8cOc21u-qNFHw9" group-title="INFANTILES 24/7",24/7 SERIES INFANTILES | PICAPIEDRAS
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103909
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054" group-title="INFANTILES 24/7",24/7 Ben 10
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225376
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE MICKEY MOUSE" tvg-logo="https://1.bp.blogspot.com/-WUX_C4kXCic/Xp-KsRNB3tI/AAAAAAAAByA/XemVnjhpy-8U2nCQBhM9lDW9crnWtyf-gCLcBGAsYHQ/s200/la%2Bcasa%2Bde%2Bmickey%2Bmouse.png" group-title="INFANTILES 24/7",24/7 LA CASA DE MICKEY MOUSE
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225377
-#EXTINF:-1 tvg-id="" tvg-name="24/7 24/7 Dragon Ball GT" tvg-logo="https://i.pinimg.com/564x/f8/5d/3b/f85d3bd25ae48b3803102ae3431dd7d4.jpg" group-title="INFANTILES 24/7",24/7 24/7 Dragon Ball GT
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225389
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://i.pinimg.com/564x/a8/7a/3f/a87a3f775e607920bce1e6b48939d5db.jpg" group-title="INFANTILES 24/7",24/7 Dragon Ball Super
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225399
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://1.bp.blogspot.com/-9QRBpngsE2E/XplxrhNtWYI/AAAAAAAABsM/R2cL6D838WEXFy00FHDxiHe1tjFZFP5AgCLcBGAsYHQ/s200/freezer.png" group-title="INFANTILES 24/7",24/7 Dragon Ball Z
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225401
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado Animado (p)(480)" tvg-logo="https://www.themoviedb.org/t/p/w500/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="INFANTILES 24/7",24/7 El Chapulin Colorado Animado (p)(480)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225407
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DC Comics Series" tvg-logo="s:1:/images/9c81f76d372f469ffc116cad247ec06c.jpeg" group-title="INFANTILES 24/7",24/7 DC Comics Series
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225444
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso " tvg-logo="s:1:/images/41c23546f85722802ba2df8a9062f150.png" group-title="INFANTILES 24/7",24/7 Masha y el Oso 
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225447
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MAZINGER" tvg-logo="https://www.oceano.mx/img/obra/media/11683.jpg" group-title="INFANTILES 24/7",24/7 MAZINGER
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225455
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Popeye El Marino (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-f3GZ8HyrNm4/XruyVDAPTsI/AAAAAAAAB8E/eWXSksxZ0eo8jvpS7AviAFbgwdt_Ux50gCLcBGAsYHQ/s200/popeye%2Bel%2Bmarino.png" group-title="INFANTILES 24/7",24/7 Popeye El Marino (e)(1080)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225462
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom and Jerry" tvg-logo="s:1:/images/38185ae0145adef6d2b4253d931b1eb5.jpg" group-title="INFANTILES 24/7",24/7 Tom and Jerry
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225470
-#EXTINF:-1 tvg-id="" tvg-name="24/7 iCarly" tvg-logo="s:1:/images/0fcbcd597d2390a9136d36e3af85981d.jpg" group-title="INFANTILES 24/7",24/7 iCarly
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225475
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="https://www.justwatch.com/images/poster/260137123/s332/temporada-5" group-title="INFANTILES 24/7",24/7 Hey Arnold
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225478
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chapulin colorado" tvg-logo="https://www.themoviedb.org/t/p/w500/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="24/7",24/7 | El chapulin colorado
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225483
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB SPONJA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Gl7or4F_F5oj4tfF2D462TCuUPCsqdu1Sw&usqp=CAU" group-title="INFANTILES 24/7",24/7 | BOB SPONJA
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225485
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON" tvg-logo="s:1:/images/db199ab3d760c847084950b71707dffc.jpeg" group-title="INFANTILES 24/7",24/7 | DIGIMON
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225486
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="https://www.justwatch.com/images/backdrop/251369049/s640/el-show-de-la-pantera-rosa" group-title="INFANTILES 24/7",24/7 | LA PANTERA ROSA
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225488
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MIS ADORABLES ENTENADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/MIS_ADORABLES_ENTENADOS.png" group-title="24/7",24/7 MIS ADORABLES ENTENADOS
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225500
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="https://1.bp.blogspot.com/-0S3rPo9zGmw/XwuWfdRZfsI/AAAAAAAAAVc/dsW05OtBVksSkmfHVJMZekvHHoMhT-VfgCLcBGAsYHQ/w200-h200/cantiflas.png" group-title="24/7",24/7 CANTINFLAS
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225503
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CHESPIRITO" tvg-logo="http://zuihaode.site:25461/images/2c4a3b93f063617b3a3b76bb0e6786c7.jpg" group-title="24/7",24/7 CHESPIRITO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225530
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="24/7",24/7 El Chavo del Ocho
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225537
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the Middle 1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Malcolm-in-the-middle.jpg/revision/latest?cb=20220813175946&path-prefix=es" group-title="24/7",24/7 Malcolm in the Middle 1
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225563
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 24/7" tvg-logo="https://i.imgur.com/mx1CCCP.jpg" group-title="INFANTILES 24/7",Los Simpsons 24/7
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226650
-#EXTINF:-1 tvg-id="" tvg-name="EL GALLO CLAUDIO 24/7" tvg-logo="s:1:/images/acb4a1f707d46b6f208fa1e2e3771e55.jpg" group-title="INFANTILES 24/7",EL GALLO CLAUDIO 24/7
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226653
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PASADO Y CONFESO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVhNjhhNWUtOWE4NS00Yjc3LWJhMWYtNzFhMmY0ZGIzNzYwXkEyXkFqcGdeQXVyMDc4OTk1MA@@._V1_.jpg" group-title="24/7 TELENOVELAS",24/7 PASADO Y CONFESO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/227368
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA" tvg-logo="s:1:/images/4371f57b8c914c59d60c6ea901a114e8.jpg" group-title="INFANTILES 24/7",24/7 FUTURAMA
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/227846
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL" tvg-logo="s:1:/images/4869feaa5890c5a7c9de080283993ab6.png" group-title="INFANTILES 24/7",24/7 PAW PATROL
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/234899
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LA TEORIA DEL BIG BANG" tvg-logo="s:1:/images/e23b90c524e9b63b3f2c6df1928457cc.jpg" group-title="24/7",24/7: LA TEORIA DEL BIG BANG
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239038
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS TRES CHIFLADOS " tvg-logo="" group-title="24/7",24/7: LOS TRES CHIFLADOS 
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239071
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIA (Dual Audio) | ACAPULCO SHORE" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDbZqPZ-A0Dj39LsIXYmweTTALT-Kao5pzCYcfYeHDXuQ.png" group-title="24/7",24/7 SERIES COMEDIA (Dual Audio) | ACAPULCO SHORE
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239275
-#EXTINF:-1 tvg-id="" tvg-name="24/7:SOUTH PARK SERIE TEMPORADA 11 -22 HD 24/7." tvg-logo="s:1:/images/870c79262e371b84d9517a669d95531b.png" group-title="24/7",24/7:SOUTH PARK SERIE TEMPORADA 11 -22 HD 24/7.
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239278
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PADRE DE FMILIA" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C7D49FC5064B8902FDBCFB2E2BA5C273604B75085E835DB1F211FF24993D6EF2/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="INFANTILES 24/7",24/7 PADRE DE FMILIA
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239279
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 100" tvg-logo="https://www.justwatch.com/images/poster/243672625/s332/temporada-7" group-title="24/7",24/7 Los 100
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246480
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Manual de supervivencia escolar de Ned" tvg-logo="s:1:/images/cdae79814473ee98a10fa60a81e410ed.jpg" group-title="INFANTILES 24/7",24/7 Manual de supervivencia escolar de Ned
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246482
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del Zodiaco Hades & Alma de oro" tvg-logo="s:1:/images/0c9778cba9615b4ca2e6543eb484d74d.jpg" group-title="INFANTILES 24/7",24/7 Caballeros del Zodiaco Hades & Alma de oro
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246486
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Thundercats" tvg-logo="s:1:/images/541ecf4517ba1f3318efa2cd2b58f736.jpg" group-title="INFANTILES 24/7",24/7 | Los Thundercats
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246488
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | coraje el perro cobarde" tvg-logo="https://static.wikia.nocookie.net/corajeelperrocobarde/images/1/1c/Coraje_el_perro_cobardepng.png/revision/latest?cb=20211110204145&path-prefix=es" group-title="INFANTILES 24/7",24/7 | coraje el perro cobarde
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246497
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1" tvg-logo="https://1.bp.blogspot.com/-kqUuT0gNWrw/Xj4eBMzNdFI/AAAAAAAABLo/poj4TwXXOpYtphwwCtx5tSs2YEq4WiqOwCLcBGAsYHQ/s200/La%2BFamilia%2BP%2BLuche.png" group-title="24/7",24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246834
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos (e)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png" group-title="24/7 TELENOVELAS",24/7 Vecinos (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/264761
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo (p)(1080)" tvg-logo="https://d2lv662meabn0u.cloudfront.net/boomerang/dynamic/show/00000000/914/cba96468044d1d510c7616f30fe5d653e9d70dea_1576257349.jpg" group-title="INFANTILES 24/7",24/7 Scooby-Doo (p)(1080)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265622
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Yu-Gi-Oh" tvg-logo="s:1:/images/bd549cc02913b5a3b008c3ab680f1a22.jpg" group-title="INFANTILES 24/7",24/7 | Yu-Gi-Oh
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265625
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Boo (e)(720)" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/35e4ac6339f5fdcc164160a5755790cd.jpe" group-title="INFANTILES 24/7",24/7 Dragon Ball Z - Saga Majin Boo (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265627
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S01 a S20" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/36E34B32E2AA84C4E2B8DEE59F978AC8815CD8A1BDD33E32B4A66E230C2547DD/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="INFANTILES 24/7",24/7 Los Simpsons S01 a S20
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265628
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Zenki (e)(720)" tvg-logo="s:1:/images/d83914d696096927ff9885265388e9c3.jpg" group-title="INFANTILES 24/7",24/7 Zenki (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265629
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los AÃ±os Maravillosos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e6/Los_a%C3%B1os_maravillosos-6ta_temp._poster-1a1.jpg/revision/latest?cb=20151005023504&path-prefix=es" group-title="INFANTILES 24/7",24/7 Los AÃ±os Maravillosos
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265630
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Victorious (e)(720)" tvg-logo="https://cdn.playpilot.tech/90564fc0c83911ecaff60a58a9feac02/src/img?optimizer=image&quality=75&width=1280&aspect_ratio=16%3A9" group-title="INFANTILES 24/7",24/7 Victorious (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265633
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)(720)" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/36bdc5ea4443cd8e42f22ec7d3884cbb.jpe" group-title="INFANTILES 24/7",24/7 Dragon Ball Z - Saga Cell (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265634
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pocoyo (e)(1080)" tvg-logo="s:1:/images/ec0eedce134c3ad4f36e3d706f6acb5a.png" group-title="INFANTILES 24/7",24/7 Pocoyo (e)(1080)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265635
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the Middle (e)(720)" tvg-logo="https://1.bp.blogspot.com/-odJlX1hGdQg/Xj2GPrvK-lI/AAAAAAAABFw/paCmPfpVMuQamOZZJu-opunknyq1Y0eNQCLcBGAsYHQ/s200/Malcolm%2Bin%2Bthe%2BMiddle.png" group-title="24/7",24/7 Malcolm in the Middle (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265639
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Walker Texas Ranger " tvg-logo="https://1.bp.blogspot.com/-YfKJ3i-vIAw/Xq9KH4OBhXI/AAAAAAAAB3g/ckaBMgZZg14vgSXD9L5kyZ5TH0wig_TfwCLcBGAsYHQ/s200/Walker%2BTexas%2BRanger.png" group-title="24/7",24/7 Walker Texas Ranger 
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265643
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap " tvg-logo="https://1.bp.blogspot.com/-ml7YA5cWw-0/XtX-SZtmUhI/AAAAAAAAASU/hdAzuBbvLMUv7fIa0VAVQYmnxSVnllGNwCK4BGAsYHg/principe_rap.png" group-title="24/7",24/7 El Principe del Rap 
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265650
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Magnificos" tvg-logo="https://1.bp.blogspot.com/-gHxT8rpIpp8/XucI3YSTp1I/AAAAAAAACFg/85PRze-JpxE6Hzt5H660vpr6U5DhLe7GwCLcBGAsYHQ/s200/Los%2Bmagnificos.png" group-title="24/7",24/7 Los Magnificos
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265652
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Auto Fantastico (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-8DzP5qN4HIY/XucILmmQ64I/AAAAAAAACFY/uEPJyj-kb-YKw_LJHoY91RlZGWKMMz_VgCLcBGAsYHQ/s200/El%2Bauto%2Bfantastico.png" group-title="24/7",24/7 El Auto Fantastico (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265653
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH RETRO" tvg-logo="http://playentertainment.ddns.net:25461/images/288313db9558f204fa5a99f5305715d4.jpg" group-title="24/7",24/7 BAYWATCH RETRO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265668
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro Infante (e)(SD)" tvg-logo="s:1:/images/03595f1cef4e029f11b60267bd23a6ca.jpg" group-title="24/7",24/7 Pedro Infante (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265669
-#EXTINF:-1 tvg-id="" tvg-name="24/7  THE BING BANG THEORY " tvg-logo="https://1.bp.blogspot.com/-MQq7HsyxI1o/Xw-5d_pUOkI/AAAAAAAACSY/mACBl_Coox49n-pmoRlS_6pW2PbE-Ap7wCLcBGAsYHQ/s200/the%2Bbig%2Bbang%2Btheory%2B2.png" group-title="24/7",24/7  THE BING BANG THEORY 
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265670
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Inuyasha (e)(720)" tvg-logo="https://static.wikia.nocookie.net/inuyasha/images/1/18/InuYasha_%28Anime%29.jpg/revision/latest?cb=20201013123530&path-prefix=es" group-title="INFANTILES 24/7",24/7 Inuyasha (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265691
-#EXTINF:-1 tvg-id="" tvg-name="24/7  MAZZINGER Z" tvg-logo="https://1.bp.blogspot.com/-4CZl2E54_6M/XvGUjOTon7I/AAAAAAAACOM/rM37DgPpkP4dNe4g4ulsl4lZG2I9EKcHgCLcBGAsYHQ/s200/Mazinger%2BZ.png" group-title="24/7",24/7  MAZZINGER Z
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265693
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" tvg-logo="s:1:/images/8da1d7a7fde22f0878beadad7d996047.jpg" group-title="INFANTILES 24/7",24/7 Fear the Walking Dead
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265695
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="https://1.bp.blogspot.com/-q5PwmWJPpOQ/Xris97LioOI/AAAAAAAAB7c/DlpOHv47WnITsSMH_NY-ROrtvklWLU5-QCLcBGAsYHQ/s200/La%2Bcasa%2Bde%2Bpapel.png" group-title="24/7",24/7 LA CASA DE PAPEL
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265696
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Doraemon" tvg-logo="https://1.bp.blogspot.com/-YQ2SyK6S5P8/Xt7k4PlsHbI/AAAAAAAAAhM/hN4Q74lwqUMeCVx2y7jBDVDPj10gWPCRQCK4BGAsYHg/s320/doraemon.png" group-title="INFANTILES 24/7",24/7 | Doraemon
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/270886
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Macgyver (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-mBeHo08xY3I/Xw46X3P8z-I/AAAAAAAACRE/JBwgv6JoSf8v4CBqrrTjtslhijhfBCVxACLcBGAsYHQ/s200/Macgyver.png" group-title="24/7",24/7 Macgyver (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/270887
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIVOS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9U4Ea0jXxz1zVAo7db4vE8AVGkCargN5oSVtp6=s900-c-k-c0x00ffffff-no-rj" group-title="24/7",24/7 VIVOS
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/278213
-#EXTINF:-1 tvg-id="" tvg-name="24/7 AIDA ECUADOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3z45kpXVGcu-ot8jakjhDmhP2RGkHsiI4w&usqp=CAU" group-title="24/7 TELENOVELAS",24/7 AIDA ECUADOR
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/278215
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MIS ADORABKLE ENTENADOS 2021 (ECU)" tvg-logo="s:1:/images/d1c671fc51518555fa249ac792fb4844.jpg" group-title="24/7",24/7 MIS ADORABKLE ENTENADOS 2021 (ECU)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/278216
-#EXTINF:-1 tvg-id="" tvg-name="24/7 II MI RECINTO EC" tvg-logo="s:1:/images/8075578df65ac5eb0fba1a35c4ced049.jpeg" group-title="24/7",24/7 II MI RECINTO EC
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289257
-#EXTINF:-1 tvg-id="" tvg-name="24/7 II  ARCHIVOS DEL DESTINO" tvg-logo="http://playentertainment.ddns.net:25461/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="24/7",24/7 II  ARCHIVOS DEL DESTINO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289258
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH RETRO" tvg-logo="http://playentertainment.ddns.net:25461/images/288313db9558f204fa5a99f5305715d4.jpg" group-title="24/7",24/7 BAYWATCH RETRO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289259
-#EXTINF:-1 tvg-id="" tvg-name="24/7 II DE LA VIDA REAL" tvg-logo="https://www.ecured.cu/images/thumb/2/20/De_la_vida_real.jpg/260px-De_la_vida_real.jpg" group-title="24/7 TELENOVELAS",24/7 II DE LA VIDA REAL
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289260
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL ZORRO RETRO" tvg-logo="https://1.bp.blogspot.com/-jmc42p54lno/XucPVOxYp5I/AAAAAAAACGk/dOiIBs6ouUo6-B01jsR024SaFlDGwVe_QCLcBGAsYHQ/s200/El%2Bzorro.png" group-title="24/7",24/7 EL ZORRO RETRO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289261
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Yo Soy Betty la fea" tvg-logo="http://zuihaode.site:25461/images/82b054bd83ffad9b6cf8bdb98ce3cc2f.png" group-title="24/7 TELENOVELAS",24/7 Yo Soy Betty la fea
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/234910
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Marimar" tvg-logo="http://zuihaode.site:25461/images/7f9b9e003ec7b6af4b8e82f8c23fe6a0.png" group-title="24/7 TELENOVELAS",24/7 Marimar
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226661
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cafe Con Aroma De Mujer (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/3f41f620440679e27166223cb2fb88ae.png" group-title="24/7 TELENOVELAS",24/7 Cafe Con Aroma De Mujer (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265661
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ecomoda (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/8adddf12a18986e466e57d4e813ece7f.png" group-title="24/7 TELENOVELAS",24/7 Ecomoda (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265660
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Luz Clarita" tvg-logo="http://zuihaode.site:25461/images/94a01dd309dbd635a2178dab3aa704a5.png" group-title="24/7 TELENOVELAS",24/7 Luz Clarita
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225561
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Maria la del barrio" tvg-logo="http://zuihaode.site:25461/images/df1f1660683ebf91542f198419c1c875.png" group-title="24/7 TELENOVELAS",24/7 Maria la del barrio
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226659
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de Tronos (e)(720)" tvg-logo="https://1.bp.blogspot.com/-DMCrrOhXRhQ/Xj4KMCshfQI/AAAAAAAABJI/1rfzC9vtSLAPSJvini8sC8VujVngCE3bwCLcBGAsYHQ/s200/Game%2Bof%2BThrones.png" group-title="24/7",24/7 Juego de Tronos (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358971
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Walking Dead (e)(720)" tvg-logo="https://1.bp.blogspot.com/-9SIedouBwcU/XqMzVslLmUI/AAAAAAAAB0I/_lg-U-5BM6gw796dLkwRxQn8EHkTblyfgCLcBGAsYHQ/s200/the%2Bwalking%2Bdead.png" group-title="24/7",24/7 The Walking Dead (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358972
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter (e) (1080)" tvg-logo="https://1.bp.blogspot.com/-3E9IXL3-Is4/XudDBL43PbI/AAAAAAAACI0/JB7-fLvlQ64pWLx48cXF2AXMyxFYRwUKACLcBGAsYHQ/s200/harry%2Bpotter.png" group-title="24/7",24/7 Harry Potter (e) (1080)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358973
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Spartacus (e)(720)" tvg-logo="https://1.bp.blogspot.com/-SWQ_yZ2wNpM/XqcxlM91iqI/AAAAAAAAB1k/IhDaLhluxJQ2fB1MBgt9iND1JepLT7nJgCLcBGAsYHQ/s200/spartacus.png" group-title="24/7",24/7 Spartacus (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358974
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-5kK6RNlDNxo/XcsUbz6_QaI/AAAAAAAAA1w/UzftBLtHs1MIMfzokVQm9vPBeb8vwnatwCLcBGAsYHQ/s200/alf.png" group-title="24/7",24/7 Alf (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358975
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Una familia de Diez  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-NeLBGPZPEak/XruyZsPZjMI/AAAAAAAAB8M/Swpm8sXOwKwKyzUbUcuEUA86cy5OEo5_ACLcBGAsYHQ/s200/Una%2Bfamilia%2Bde%2B10.png" group-title="24/7 TELENOVELAS",24/7 Una familia de Diez  (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358977
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago P.D (e)(720)" tvg-logo="https://1.bp.blogspot.com/-5J6elFgiJtQ/XsLcR1zr0uI/AAAAAAAAADE/NWUggIKJBAoxIbHMDEeYmc_DPoTkSGLvACK4BGAsYHg/s320/chicago_pd1.png" group-title="24/7",24/7 Chicago P.D (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358978
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Agente 86 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-G1JKMI9bKqg/XsySJeLakrI/AAAAAAAAAJ0/l0nnrnOiNJgczUbmjqQXc5byxoppEcsQACK4BGAsYHg/agente86.png" group-title="24/7",24/7 Super Agente 86 (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358979
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Aqui no hay quien viva (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-BoPMCqoohyM/Xs-NQIPIuFI/AAAAAAAACAc/Keor1Gp_BGMc-BLo0og23CFWVXz1xT-YACLcBGAsYHQ/s200/anhqv.png" group-title="24/7 TELENOVELAS",24/7 Aqui no hay quien viva (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358980
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends (e)(720)" tvg-logo="https://1.bp.blogspot.com/-V83auwlovgY/XtYD8p5jxII/AAAAAAAAATA/HmP92xZDjZUhxJqI4TkJDE6Uf9BTmy5sQCK4BGAsYHg/friends.png" group-title="24/7",24/7 Friends (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358981
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Bella Genio (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-XeQNk8WYvoI/XtsdofG4cVI/AAAAAAAAAZI/71I7GTPrh10ruZd_Oj9FkZXli4sJIf3twCK4BGAsYHg/s512/mibellagenio.png" group-title="24/7",24/7 Mi Bella Genio (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358982
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-jpc7wN-iqG4/XtwJtaQBs9I/AAAAAAAAAcQ/JLjKvVQlm5kOgr_fFVDnmJ_9u-TFvIEzwCK4BGAsYHg/s512/hechizada.png" group-title="24/7",24/7 Hechizada (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358983
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Amor Real (e)(720)" tvg-logo="https://1.bp.blogspot.com/-DEgHPwyWST4/XucG8F_awoI/AAAAAAAACFM/SdmFrAzd2XUPU1nY6KF5bA2Xh0FrYu6-QCLcBGAsYHQ/s200/amor%2Breal.png" group-title="24/7 TELENOVELAS",24/7 Amor Real (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358984
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Ingalls " tvg-logo="https://1.bp.blogspot.com/-QZFPBDLGKVk/XucFQzWEw-I/AAAAAAAACE4/q4jRVn93awk7t5Ofen3pW4uK14DZHzOUACLcBGAsYHQ/s200/La%2Bcasa%2Ben%2Bla%2Bpradera.png" group-title="24/7 TELENOVELAS",24/7 La Familia Ingalls 
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358985
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Prison Break (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A4JMya_j2JY/XuRzWiRo-lI/AAAAAAAACEE/4uW4yh4-fT8_K4dc-r5Z9TPjnxG_DX-6gCLcBGAsYHQ/s200/prision.png" group-title="24/7",24/7 Prison Break (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358986
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dr. House (e)(720)" tvg-logo="https://1.bp.blogspot.com/-ZVY2iWZLq6w/XyTAIQaDvHI/AAAAAAAACU8/l9ZPvvVKhhsYIufwda2MSoEueePjW4nNQCLcBGAsYHQ/s200/House.png" group-title="24/7",24/7 Dr. House (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358987
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Tremenda Corte (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/3ddf426a041aa471ac39110d317d2fe1.png" group-title="24/7",24/7 La Tremenda Corte (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358988
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Looney Tunes" tvg-logo="https://1.bp.blogspot.com/-92r7xqdnzTY/XrJgCU5hEdI/AAAAAAAAB4k/6Ipob6YZnWEuhTULx2umPPH0X9UQSVYdgCLcBGAsYHQ/s200/Looney%2BToons.png" group-title="INFANTILES 24/7",24/7 | Looney Tunes
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359087
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ranma 1/2" tvg-logo="https://i.pinimg.com/564x/e5/a4/c7/e5a4c72b560428159aa5d865af178caa.jpg" group-title="INFANTILES 24/7",24/7 | Ranma 1/2
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359089
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S20 a S30  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-09Sc7rPuKWY/Xj2B7kEPxPI/AAAAAAAABE0/om-2Z5cxb9YbPczSR-I28kZpyaasZZQkgCLcBGAsYHQ/s200/The%2Bsimpsons%2Bdual.png" group-title="INFANTILES 24/7",24/7 Los Simpsons S20 a S30  (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359090
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Zoey 101 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-vGpJYLGRs_M/Xr2vbIdVW0I/AAAAAAAAB9E/k0Fd3XdqNJQIJthz48zYpy2Q_9cWaEafwCLcBGAsYHQ/s200/zoey.png" group-title="INFANTILES 24/7",24/7 Zoey 101 (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359091
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones 2002 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/--ZuE3vj4Oao/Xpl31M4oWuI/AAAAAAAABt4/FdB2_MghMdYD6ryoavWE8VjF1W96fpl1gCLcBGAsYHQ/s200/supercampeones%2B2002.png" group-title="INFANTILES 24/7",24/7 Super Campeones 2002 (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359092
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-UfU5HMG60l0/Xj4xhQurkVI/AAAAAAAABQw/W1NqD0WKk585q05amGo8MntWLCNreBKZwCLcBGAsYHQ/s200/gravity%2Bfalls.png" group-title="INFANTILES 24/7",24/7 Gravity Falls (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359094
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-tKZxLRncfcU/Xj45HF9THvI/AAAAAAAABTE/l9DsbWzfiw0r4LRELW0bpYLjGniIVBE2ACLcBGAsYHQ/s200/Peppa%2BPig.png" group-title="INFANTILES 24/7",24/7 Peppa Pig (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359095
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Phineas y Ferb  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-zv5jdSYW6t8/XrXRFIRB2lI/AAAAAAAAB6A/gN6Zac25zHMAVSOKqSzboNAvcaEaLrqzgCLcBGAsYHQ/s200/phineas%2By%2Bferb.png" group-title="INFANTILES 24/7",24/7 Phineas y Ferb  (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359096
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de Aventura (e)(720)" tvg-logo="https://1.bp.blogspot.com/-enq4hRvyO_Y/XsLY0TFXMcI/AAAAAAAAACU/X96X97-R3KAlgD2UsCs7zpeq_HjYiIlYACK4BGAsYHg/s320/hora_aventura.png" group-title="INFANTILES 24/7",24/7 Hora de Aventura (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359097
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hajime no Ippo (e)(720)" tvg-logo="https://1.bp.blogspot.com/-X4kV2kfViH4/XsmMSqKjKPI/AAAAAAAAB_M/5XVHUGSOB_40mSh2BNN04XauCnri38f0wCLcBGAsYHQ/s200/Espiritu%2Bde%2Blucha.png" group-title="INFANTILES 24/7",24/7 Hajime no Ippo (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359098
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jimmy Neutron (e)" tvg-logo="https://1.bp.blogspot.com/-sZJ878vGHbo/XuBV0sZmgUI/AAAAAAAAAlU/1keQK0Av-8wSJ7HZNCK4rnNKFAH5C9v5QCK4BGAsYHg/s320/jimmyneutron.png" group-title="INFANTILES 24/7",24/7 Jimmy Neutron (e)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359099
-#EXTINF:-1 tvg-id="" tvg-name="24/7 RUBI" tvg-logo="http://zuihaode.site:25461/images/344720e6f7c90c56093648cd8b2adb19.png" group-title="24/7 TELENOVELAS",24/7 RUBI
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226655
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | BRUCE LEE" tvg-logo="http://zuihaode.site:25461/images/31c8fe8f3d3bf7aea0fbe4275cab1c74.png" group-title="24/7",24/7 | BRUCE LEE
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/284511
-#EXTINF:-1 tvg-id="" tvg-name="24/7 María Mercedes (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-lTilkZxbtW4/X0sR1YHSEuI/AAAAAAAACcI/JZ6fxlv28eM38wlKD3S6cB6GrJXkqXVOACLcBGAsYHQ/w209-h209/Maria%2BMercedes.png" group-title="24/7 TELENOVELAS",24/7 María Mercedes (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359990
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La hija del Mariachi (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-yS98BRL4YQo/X3OZhv5liKI/AAAAAAAAChE/iTQCo76abpg8FJaSmGUXxZlmBJh7IzIkgCLcBGAsYHQ/w200-h200/La%2Bhija%2Bdel%2BMariachi.png" group-title="24/7 TELENOVELAS",24/7 La hija del Mariachi (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359991
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Diarios De Vampiros (e)(720)" tvg-logo="https://1.bp.blogspot.com/-Txjt-u0gWbs/X3TNsMmJbDI/AAAAAAAABuo/aajSHaW_6WYe6J3owH2pl7UNTSbxIs6lQCLcBGAsYHQ/w200-h200/Vampiro.png" group-title="24/7",24/7 Diarios De Vampiros (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359992
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINE LATINO" tvg-logo="http://daleplaypro.com:8080/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png" group-title="CINEMA",CINE HD | CINE LATINO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/366147
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Xica Da Silva (e)(720)" tvg-logo="https://1.bp.blogspot.com/-NJOc9-SWj_U/X3J0oF4n3CI/AAAAAAAACf8/68oyNbD9RcYCn2SV6X89nir5s2CKLVo4ACLcBGAsYHQ/w200-h200/Xica%2Bda%2Bsilva.png" group-title="24/7 TELENOVELAS",24/7 Xica Da Silva (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367632
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Avenida Brasil (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-o-7DNVUEuAQ/X3J6bm4wnWI/AAAAAAAACgI/39dwxO8j7EgXr8zT7A2JmmTHCH1cvGAoACLcBGAsYHQ/w200-h200/Avenida%2BBrasil.png" group-title="24/7 TELENOVELAS",24/7 Avenida Brasil (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367633
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Casado con hijos (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-7vkOI2PAA9A/X3KG4jr2g4I/AAAAAAAACgU/USxNFM5XzLYCpEXpVXYjPlvOK-wLIyLPQCLcBGAsYHQ/w200-h200/Casado%2BCon%2BHijos.png" group-title="24/7 TELENOVELAS",24/7 Casado con hijos (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367634
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Corazon Salvaje (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-aPTvvD3c3dk/X3NkGlyCPHI/AAAAAAAACgs/GS8CyNfDHPIUnLTrpHyovlapCzhrY8NgACLcBGAsYHQ/w200-h200/Corazon%2BSalvaje.png" group-title="24/7 TELENOVELAS",24/7 Corazon Salvaje (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367635
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cuna de lobos (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-0RzBYk61mqM/X3OU1bFOmwI/AAAAAAAACg4/SgHUZGI5MtYJqepBd8PMvWBzO0r5MBm-gCLcBGAsYHQ/w200-h200/Cuna%2Bde%2Blobos.png" group-title="24/7 TELENOVELAS",24/7 Cuna de lobos (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367636
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDERMAN 1997 (CLASICO)" tvg-logo="" group-title="INFANTILES 24/7",24/7 SPIDERMAN 1997 (CLASICO)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/375161
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Usurpadora (e)(SD)" tvg-logo="https://1.bp.blogspot.com/--SSS-nUEQrg/X0sR1XkPJbI/AAAAAAAACcM/dYfxRbaoANsQ8xtkwMbaBVlo3MeeeHWVQCLcBGAsYHQ/w210-h210/la%2Busurpadora.png" group-title="24/7 TELENOVELAS",24/7 La Usurpadora (e)(SD)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380785
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jackie Chan (e)(HQ)" tvg-logo="https://1.bp.blogspot.com/-P69_VlVDRhA/Xx5d4AvZQQI/AAAAAAAAAi8/eLFKm5LJOswhSNYE9gTOlK5fM1QA2Y9fgCLcBGAsYHQ/w200-h200/jack.png" group-title="24/7",24/7 Jackie Chan (e)(HQ)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380786
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Glee (e)(720)" tvg-logo="https://1.bp.blogspot.com/-qFyatAehuzA/Xw46Zn7dinI/AAAAAAAACRY/-87Y8UbdiaAVqPeRjxn3jOQHfskQ5tPdwCLcBGAsYHQ/s200/glee.png" group-title="24/7",24/7 Glee (e)(720)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380787
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Universo DC (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ehi82pE0uwo/Xtk-fajn97I/AAAAAAAAAV8/OQfcpuxcEdE2dTnpulirZHhOda2-15YVACK4BGAsYHg/s640/dc_univ.png" group-title="24/7",24/7 Universo DC (e)(1080)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380791
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Universo Marvel (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-iIuHR7Dbf2g/Xj5AV5ecoGI/AAAAAAAABVE/ZkaINxNjivIXMGI--UHNlkPdIjqMJtfFwCLcBGAsYHQ/s200/marvel.png" group-title="24/7",24/7 Universo Marvel (e)(1080)
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380794
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALERTA AEROPUERTO" tvg-logo="https://bitacoranoticias.com/wp-content/uploads/2015/01/aeropuerto.jpg" group-title="24/7",24/7 ALERTA AEROPUERTO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/381736
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DOS HOMBRES Y MEDIO " tvg-logo="https://1.bp.blogspot.com/-CNvvRR9f3JE/Xs8cZwggVSI/AAAAAAAAALA/EEPz9GMvxHo9U_TCkEm1rjxMEY9kMmK6gCK4BGAsYHg/s320/halfmen.png" group-title="24/7",24/7 DOS HOMBRES Y MEDIO 
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/384478
-#EXTINF:-1 tvg-id="" tvg-name="24/7 II Bonanza " tvg-logo="https://1.bp.blogspot.com/-_G2TZjQkevk/Xpl1IdBbqHI/AAAAAAAABtM/hnRqD53apVYOkmYMbYZL0FYK-6O-_CBvwCLcBGAsYHQ/s200/Bonanza.png" group-title="24/7",24/7 II Bonanza 
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/386288
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CHAVO ANIMADO" tvg-logo="" group-title="INFANTILES 24/7",24/7 CHAVO ANIMADO
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/394984
-#EXTINF:-1 tvg-id="" tvg-name="24/7 II Shark Tank México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Shark_Tank_TV_logo.svg/1200px-Shark_Tank_TV_logo.svg.png" group-title="24/7",24/7 II Shark Tank México
-http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/400857
 #EXTINF:-1 group-title="Servidor 1",24/7 Accion 2022 (e)(1080)
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/225772
 #EXTINF:-1 group-title="Servidor 1",24/7 Alf (e)(SD)
@@ -843,3 +575,537 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/37780
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/63382
 #EXTINF:-1 group-title="Servidor 1",ESR 24/7
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/341450
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Buen Doctor  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-pnPkIa32QD4/XrkGirBhr2I/AAAAAAAAB70/Azfjx182F2IpYj8FlxNo7B7tJsF1qsB_gCLcBGAsYHQ/s200/the%2Bgood%2Bdoctor.png" group-title="24/7 - Servidor 2",,24/7 El Buen Doctor  (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358976
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NOVELAS ROMANCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wtLtzMgaoSLpztEr8kNpDnPjkwQsMfXGDg&usqp=CAU" group-title="24/7 - Servidor 2",,24/7 NOVELAS ROMANCE
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225533
+#EXTINF:-1 tvg-id="" tvg-name="24/7:EL CHAVO DEL 8 24/7" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="24/7 - Servidor 2",,24/7:EL CHAVO DEL 8 24/7
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/103841
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CASO CERRADO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAEK1MXja5WBcUZcK-6y7mOQyH021Cmd7E6Zo7Uu5IZ82pSdShdLiZdb8QYbFwV2s7mzc&usqp=CAU" group-title="24/7 - Servidor 2",,24/7: CASO CERRADO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/103844
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3" tvg-logo="http://daleplaypro.com:8080/images/7c17ac592bd9d05f47f90954934e9e49.jpg" group-title="24/7 - Servidor 2",,24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/103848
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL SUPER" tvg-logo="https://i.pinimg.com/564x/f8/5d/3b/f85d3bd25ae48b3803102ae3431dd7d4.jpg" group-title="24/7 - Servidor 2",,24/7 SERIES INFANTILES | DRAGON BALL SUPER
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/103891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | CHAVO DEL OCHO" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="24/7 - Servidor 2",,24/7 SERIES INFANTILES | CHAVO DEL OCHO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/103894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | PICAPIEDRAS" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9MhSlot12I7qc0fQ9zVXQCdI_-YGTD534uZ8cOc21u-qNFHw9" group-title="24/7 - Servidor 2",,24/7 SERIES INFANTILES | PICAPIEDRAS
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/103909
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054" group-title="24/7 - Servidor 2",,24/7 Ben 10
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225376
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE MICKEY MOUSE" tvg-logo="https://1.bp.blogspot.com/-WUX_C4kXCic/Xp-KsRNB3tI/AAAAAAAAByA/XemVnjhpy-8U2nCQBhM9lDW9crnWtyf-gCLcBGAsYHQ/s200/la%2Bcasa%2Bde%2Bmickey%2Bmouse.png" group-title="24/7 - Servidor 2",,24/7 LA CASA DE MICKEY MOUSE
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225377
+#EXTINF:-1 tvg-id="" tvg-name="24/7 24/7 Dragon Ball GT" tvg-logo="https://i.pinimg.com/564x/f8/5d/3b/f85d3bd25ae48b3803102ae3431dd7d4.jpg" group-title="24/7 - Servidor 2",,24/7 24/7 Dragon Ball GT
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225389
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://i.pinimg.com/564x/a8/7a/3f/a87a3f775e607920bce1e6b48939d5db.jpg" group-title="24/7 - Servidor 2",,24/7 Dragon Ball Super
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225399
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://1.bp.blogspot.com/-9QRBpngsE2E/XplxrhNtWYI/AAAAAAAABsM/R2cL6D838WEXFy00FHDxiHe1tjFZFP5AgCLcBGAsYHQ/s200/freezer.png" group-title="24/7 - Servidor 2",,24/7 Dragon Ball Z
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225401
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado Animado (p)(480)" tvg-logo="https://www.themoviedb.org/t/p/w500/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="24/7 - Servidor 2",,24/7 El Chapulin Colorado Animado (p)(480)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225407
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DC Comics Series" tvg-logo="s:1:/images/9c81f76d372f469ffc116cad247ec06c.jpeg" group-title="24/7 - Servidor 2",,24/7 DC Comics Series
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225444
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso " tvg-logo="s:1:/images/41c23546f85722802ba2df8a9062f150.png" group-title="24/7 - Servidor 2",,24/7 Masha y el Oso 
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225447
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAZINGER" tvg-logo="https://www.oceano.mx/img/obra/media/11683.jpg" group-title="24/7 - Servidor 2",,24/7 MAZINGER
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225455
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Popeye El Marino (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-f3GZ8HyrNm4/XruyVDAPTsI/AAAAAAAAB8E/eWXSksxZ0eo8jvpS7AviAFbgwdt_Ux50gCLcBGAsYHQ/s200/popeye%2Bel%2Bmarino.png" group-title="24/7 - Servidor 2",,24/7 Popeye El Marino (e)(1080)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225462
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom and Jerry" tvg-logo="s:1:/images/38185ae0145adef6d2b4253d931b1eb5.jpg" group-title="24/7 - Servidor 2",,24/7 Tom and Jerry
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225470
+#EXTINF:-1 tvg-id="" tvg-name="24/7 iCarly" tvg-logo="s:1:/images/0fcbcd597d2390a9136d36e3af85981d.jpg" group-title="24/7 - Servidor 2",,24/7 iCarly
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225475
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="https://www.justwatch.com/images/poster/260137123/s332/temporada-5" group-title="24/7 - Servidor 2",,24/7 Hey Arnold
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225478
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chapulin colorado" tvg-logo="https://www.themoviedb.org/t/p/w500/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="24/7 - Servidor 2",,24/7 | El chapulin colorado
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225483
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB SPONJA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Gl7or4F_F5oj4tfF2D462TCuUPCsqdu1Sw&usqp=CAU" group-title="24/7 - Servidor 2",,24/7 | BOB SPONJA
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225485
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON" tvg-logo="s:1:/images/db199ab3d760c847084950b71707dffc.jpeg" group-title="24/7 - Servidor 2",,24/7 | DIGIMON
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225486
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="https://www.justwatch.com/images/backdrop/251369049/s640/el-show-de-la-pantera-rosa" group-title="24/7 - Servidor 2",,24/7 | LA PANTERA ROSA
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225488
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MIS ADORABLES ENTENADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/MIS_ADORABLES_ENTENADOS.png" group-title="24/7 - Servidor 2",,24/7 MIS ADORABLES ENTENADOS
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225500
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="https://1.bp.blogspot.com/-0S3rPo9zGmw/XwuWfdRZfsI/AAAAAAAAAVc/dsW05OtBVksSkmfHVJMZekvHHoMhT-VfgCLcBGAsYHQ/w200-h200/cantiflas.png" group-title="24/7 - Servidor 2",,24/7 CANTINFLAS
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225503
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHESPIRITO" tvg-logo="http://zuihaode.site:25461/images/2c4a3b93f063617b3a3b76bb0e6786c7.jpg" group-title="24/7 - Servidor 2",,24/7 CHESPIRITO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225530
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="24/7 - Servidor 2",,24/7 El Chavo del Ocho
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225537
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the Middle 1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Malcolm-in-the-middle.jpg/revision/latest?cb=20220813175946&path-prefix=es" group-title="24/7 - Servidor 2",,24/7 Malcolm in the Middle 1
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225563
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 24/7" tvg-logo="https://i.imgur.com/mx1CCCP.jpg" group-title="24/7 - Servidor 2",,Los Simpsons 24/7
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/226650
+#EXTINF:-1 tvg-id="" tvg-name="EL GALLO CLAUDIO 24/7" tvg-logo="s:1:/images/acb4a1f707d46b6f208fa1e2e3771e55.jpg" group-title="24/7 - Servidor 2",,EL GALLO CLAUDIO 24/7
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/226653
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PASADO Y CONFESO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVhNjhhNWUtOWE4NS00Yjc3LWJhMWYtNzFhMmY0ZGIzNzYwXkEyXkFqcGdeQXVyMDc4OTk1MA@@._V1_.jpg" group-title="24/7 - Servidor 2",,24/7 PASADO Y CONFESO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/227368
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA" tvg-logo="s:1:/images/4371f57b8c914c59d60c6ea901a114e8.jpg" group-title="24/7 - Servidor 2",,24/7 FUTURAMA
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/227846
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL" tvg-logo="s:1:/images/4869feaa5890c5a7c9de080283993ab6.png" group-title="24/7 - Servidor 2",,24/7 PAW PATROL
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/234899
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LA TEORIA DEL BIG BANG" tvg-logo="s:1:/images/e23b90c524e9b63b3f2c6df1928457cc.jpg" group-title="24/7 - Servidor 2",,24/7: LA TEORIA DEL BIG BANG
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/239038
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS TRES CHIFLADOS " tvg-logo="" group-title="24/7 - Servidor 2",,24/7: LOS TRES CHIFLADOS 
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/239071
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIA (Dual Audio) | ACAPULCO SHORE" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDbZqPZ-A0Dj39LsIXYmweTTALT-Kao5pzCYcfYeHDXuQ.png" group-title="24/7 - Servidor 2",,24/7 SERIES COMEDIA (Dual Audio) | ACAPULCO SHORE
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/239275
+#EXTINF:-1 tvg-id="" tvg-name="24/7:SOUTH PARK SERIE TEMPORADA 11 -22 HD 24/7." tvg-logo="s:1:/images/870c79262e371b84d9517a669d95531b.png" group-title="24/7 - Servidor 2",,24/7:SOUTH PARK SERIE TEMPORADA 11 -22 HD 24/7.
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/239278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PADRE DE FMILIA" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C7D49FC5064B8902FDBCFB2E2BA5C273604B75085E835DB1F211FF24993D6EF2/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7 - Servidor 2",,24/7 PADRE DE FMILIA
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/239279
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 100" tvg-logo="https://www.justwatch.com/images/poster/243672625/s332/temporada-7" group-title="24/7 - Servidor 2",,24/7 Los 100
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/246480
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Manual de supervivencia escolar de Ned" tvg-logo="s:1:/images/cdae79814473ee98a10fa60a81e410ed.jpg" group-title="24/7 - Servidor 2",,24/7 Manual de supervivencia escolar de Ned
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/246482
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del Zodiaco Hades & Alma de oro" tvg-logo="s:1:/images/0c9778cba9615b4ca2e6543eb484d74d.jpg" group-title="24/7 - Servidor 2",,24/7 Caballeros del Zodiaco Hades & Alma de oro
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/246486
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Thundercats" tvg-logo="s:1:/images/541ecf4517ba1f3318efa2cd2b58f736.jpg" group-title="24/7 - Servidor 2",,24/7 | Los Thundercats
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/246488
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | coraje el perro cobarde" tvg-logo="https://static.wikia.nocookie.net/corajeelperrocobarde/images/1/1c/Coraje_el_perro_cobardepng.png/revision/latest?cb=20211110204145&path-prefix=es" group-title="24/7 - Servidor 2",,24/7 | coraje el perro cobarde
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/246497
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1" tvg-logo="https://1.bp.blogspot.com/-kqUuT0gNWrw/Xj4eBMzNdFI/AAAAAAAABLo/poj4TwXXOpYtphwwCtx5tSs2YEq4WiqOwCLcBGAsYHQ/s200/La%2BFamilia%2BP%2BLuche.png" group-title="24/7 - Servidor 2",,24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/246834
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos (e)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png" group-title="24/7 - Servidor 2",,24/7 Vecinos (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/264761
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo (p)(1080)" tvg-logo="https://d2lv662meabn0u.cloudfront.net/boomerang/dynamic/show/00000000/914/cba96468044d1d510c7616f30fe5d653e9d70dea_1576257349.jpg" group-title="24/7 - Servidor 2",,24/7 Scooby-Doo (p)(1080)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265622
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Yu-Gi-Oh" tvg-logo="s:1:/images/bd549cc02913b5a3b008c3ab680f1a22.jpg" group-title="24/7 - Servidor 2",,24/7 | Yu-Gi-Oh
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265625
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Boo (e)(720)" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/35e4ac6339f5fdcc164160a5755790cd.jpe" group-title="24/7 - Servidor 2",,24/7 Dragon Ball Z - Saga Majin Boo (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265627
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S01 a S20" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/36E34B32E2AA84C4E2B8DEE59F978AC8815CD8A1BDD33E32B4A66E230C2547DD/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7 - Servidor 2",,24/7 Los Simpsons S01 a S20
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265628
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Zenki (e)(720)" tvg-logo="s:1:/images/d83914d696096927ff9885265388e9c3.jpg" group-title="24/7 - Servidor 2",,24/7 Zenki (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265629
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los AÃ±os Maravillosos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e6/Los_a%C3%B1os_maravillosos-6ta_temp._poster-1a1.jpg/revision/latest?cb=20151005023504&path-prefix=es" group-title="24/7 - Servidor 2",,24/7 Los AÃ±os Maravillosos
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265630
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Victorious (e)(720)" tvg-logo="https://cdn.playpilot.tech/90564fc0c83911ecaff60a58a9feac02/src/img?optimizer=image&quality=75&width=1280&aspect_ratio=16%3A9" group-title="24/7 - Servidor 2",,24/7 Victorious (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265633
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)(720)" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/36bdc5ea4443cd8e42f22ec7d3884cbb.jpe" group-title="24/7 - Servidor 2",,24/7 Dragon Ball Z - Saga Cell (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265634
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pocoyo (e)(1080)" tvg-logo="s:1:/images/ec0eedce134c3ad4f36e3d706f6acb5a.png" group-title="24/7 - Servidor 2",,24/7 Pocoyo (e)(1080)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265635
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the Middle (e)(720)" tvg-logo="https://1.bp.blogspot.com/-odJlX1hGdQg/Xj2GPrvK-lI/AAAAAAAABFw/paCmPfpVMuQamOZZJu-opunknyq1Y0eNQCLcBGAsYHQ/s200/Malcolm%2Bin%2Bthe%2BMiddle.png" group-title="24/7 - Servidor 2",,24/7 Malcolm in the Middle (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265639
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Walker Texas Ranger " tvg-logo="https://1.bp.blogspot.com/-YfKJ3i-vIAw/Xq9KH4OBhXI/AAAAAAAAB3g/ckaBMgZZg14vgSXD9L5kyZ5TH0wig_TfwCLcBGAsYHQ/s200/Walker%2BTexas%2BRanger.png" group-title="24/7 - Servidor 2",,24/7 Walker Texas Ranger 
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265643
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap " tvg-logo="https://1.bp.blogspot.com/-ml7YA5cWw-0/XtX-SZtmUhI/AAAAAAAAASU/hdAzuBbvLMUv7fIa0VAVQYmnxSVnllGNwCK4BGAsYHg/principe_rap.png" group-title="24/7 - Servidor 2",,24/7 El Principe del Rap 
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265650
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Magnificos" tvg-logo="https://1.bp.blogspot.com/-gHxT8rpIpp8/XucI3YSTp1I/AAAAAAAACFg/85PRze-JpxE6Hzt5H660vpr6U5DhLe7GwCLcBGAsYHQ/s200/Los%2Bmagnificos.png" group-title="24/7 - Servidor 2",,24/7 Los Magnificos
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265652
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Auto Fantastico (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-8DzP5qN4HIY/XucILmmQ64I/AAAAAAAACFY/uEPJyj-kb-YKw_LJHoY91RlZGWKMMz_VgCLcBGAsYHQ/s200/El%2Bauto%2Bfantastico.png" group-title="24/7 - Servidor 2",,24/7 El Auto Fantastico (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265653
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH RETRO" tvg-logo="http://playentertainment.ddns.net:25461/images/288313db9558f204fa5a99f5305715d4.jpg" group-title="24/7 - Servidor 2",,24/7 BAYWATCH RETRO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265668
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro Infante (e)(SD)" tvg-logo="s:1:/images/03595f1cef4e029f11b60267bd23a6ca.jpg" group-title="24/7 - Servidor 2",,24/7 Pedro Infante (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265669
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE BING BANG THEORY " tvg-logo="https://1.bp.blogspot.com/-MQq7HsyxI1o/Xw-5d_pUOkI/AAAAAAAACSY/mACBl_Coox49n-pmoRlS_6pW2PbE-Ap7wCLcBGAsYHQ/s200/the%2Bbig%2Bbang%2Btheory%2B2.png" group-title="24/7 - Servidor 2",,24/7  THE BING BANG THEORY 
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265670
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Inuyasha (e)(720)" tvg-logo="https://static.wikia.nocookie.net/inuyasha/images/1/18/InuYasha_%28Anime%29.jpg/revision/latest?cb=20201013123530&path-prefix=es" group-title="24/7 - Servidor 2",,24/7 Inuyasha (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265691
+#EXTINF:-1 tvg-id="" tvg-name="24/7  MAZZINGER Z" tvg-logo="https://1.bp.blogspot.com/-4CZl2E54_6M/XvGUjOTon7I/AAAAAAAACOM/rM37DgPpkP4dNe4g4ulsl4lZG2I9EKcHgCLcBGAsYHQ/s200/Mazinger%2BZ.png" group-title="24/7 - Servidor 2",,24/7  MAZZINGER Z
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265693
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" tvg-logo="s:1:/images/8da1d7a7fde22f0878beadad7d996047.jpg" group-title="24/7 - Servidor 2",,24/7 Fear the Walking Dead
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265695
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="https://1.bp.blogspot.com/-q5PwmWJPpOQ/Xris97LioOI/AAAAAAAAB7c/DlpOHv47WnITsSMH_NY-ROrtvklWLU5-QCLcBGAsYHQ/s200/La%2Bcasa%2Bde%2Bpapel.png" group-title="24/7 - Servidor 2",,24/7 LA CASA DE PAPEL
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265696
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Doraemon" tvg-logo="https://1.bp.blogspot.com/-YQ2SyK6S5P8/Xt7k4PlsHbI/AAAAAAAAAhM/hN4Q74lwqUMeCVx2y7jBDVDPj10gWPCRQCK4BGAsYHg/s320/doraemon.png" group-title="24/7 - Servidor 2",,24/7 | Doraemon
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/270886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Macgyver (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-mBeHo08xY3I/Xw46X3P8z-I/AAAAAAAACRE/JBwgv6JoSf8v4CBqrrTjtslhijhfBCVxACLcBGAsYHQ/s200/Macgyver.png" group-title="24/7 - Servidor 2",,24/7 Macgyver (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/270887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIVOS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9U4Ea0jXxz1zVAo7db4vE8AVGkCargN5oSVtp6=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 - Servidor 2",,24/7 VIVOS
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/278213
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AIDA ECUADOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3z45kpXVGcu-ot8jakjhDmhP2RGkHsiI4w&usqp=CAU" group-title="24/7 - Servidor 2",,24/7 AIDA ECUADOR
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/278215
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MIS ADORABKLE ENTENADOS 2021 (ECU)" tvg-logo="s:1:/images/d1c671fc51518555fa249ac792fb4844.jpg" group-title="24/7 - Servidor 2",,24/7 MIS ADORABKLE ENTENADOS 2021 (ECU)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/278216
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II MI RECINTO EC" tvg-logo="s:1:/images/8075578df65ac5eb0fba1a35c4ced049.jpeg" group-title="24/7 - Servidor 2",,24/7 II MI RECINTO EC
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/289257
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II  ARCHIVOS DEL DESTINO" tvg-logo="http://playentertainment.ddns.net:25461/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="24/7 - Servidor 2",,24/7 II  ARCHIVOS DEL DESTINO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/289258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH RETRO" tvg-logo="http://playentertainment.ddns.net:25461/images/288313db9558f204fa5a99f5305715d4.jpg" group-title="24/7 - Servidor 2",,24/7 BAYWATCH RETRO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/289259
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II DE LA VIDA REAL" tvg-logo="https://www.ecured.cu/images/thumb/2/20/De_la_vida_real.jpg/260px-De_la_vida_real.jpg" group-title="24/7 - Servidor 2",,24/7 II DE LA VIDA REAL
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/289260
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL ZORRO RETRO" tvg-logo="https://1.bp.blogspot.com/-jmc42p54lno/XucPVOxYp5I/AAAAAAAACGk/dOiIBs6ouUo6-B01jsR024SaFlDGwVe_QCLcBGAsYHQ/s200/El%2Bzorro.png" group-title="24/7 - Servidor 2",,24/7 EL ZORRO RETRO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/289261
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yo Soy Betty la fea" tvg-logo="http://zuihaode.site:25461/images/82b054bd83ffad9b6cf8bdb98ce3cc2f.png" group-title="24/7 - Servidor 2",,24/7 Yo Soy Betty la fea
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/234910
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Marimar" tvg-logo="http://zuihaode.site:25461/images/7f9b9e003ec7b6af4b8e82f8c23fe6a0.png" group-title="24/7 - Servidor 2",,24/7 Marimar
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/226661
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cafe Con Aroma De Mujer (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/3f41f620440679e27166223cb2fb88ae.png" group-title="24/7 - Servidor 2",,24/7 Cafe Con Aroma De Mujer (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265661
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ecomoda (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/8adddf12a18986e466e57d4e813ece7f.png" group-title="24/7 - Servidor 2",,24/7 Ecomoda (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/265660
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Luz Clarita" tvg-logo="http://zuihaode.site:25461/images/94a01dd309dbd635a2178dab3aa704a5.png" group-title="24/7 - Servidor 2",,24/7 Luz Clarita
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/225561
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maria la del barrio" tvg-logo="http://zuihaode.site:25461/images/df1f1660683ebf91542f198419c1c875.png" group-title="24/7 - Servidor 2",,24/7 Maria la del barrio
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/226659
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de Tronos (e)(720)" tvg-logo="https://1.bp.blogspot.com/-DMCrrOhXRhQ/Xj4KMCshfQI/AAAAAAAABJI/1rfzC9vtSLAPSJvini8sC8VujVngCE3bwCLcBGAsYHQ/s200/Game%2Bof%2BThrones.png" group-title="24/7 - Servidor 2",,24/7 Juego de Tronos (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358971
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Walking Dead (e)(720)" tvg-logo="https://1.bp.blogspot.com/-9SIedouBwcU/XqMzVslLmUI/AAAAAAAAB0I/_lg-U-5BM6gw796dLkwRxQn8EHkTblyfgCLcBGAsYHQ/s200/the%2Bwalking%2Bdead.png" group-title="24/7 - Servidor 2",,24/7 The Walking Dead (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358972
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter (e) (1080)" tvg-logo="https://1.bp.blogspot.com/-3E9IXL3-Is4/XudDBL43PbI/AAAAAAAACI0/JB7-fLvlQ64pWLx48cXF2AXMyxFYRwUKACLcBGAsYHQ/s200/harry%2Bpotter.png" group-title="24/7 - Servidor 2",,24/7 Harry Potter (e) (1080)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358973
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spartacus (e)(720)" tvg-logo="https://1.bp.blogspot.com/-SWQ_yZ2wNpM/XqcxlM91iqI/AAAAAAAAB1k/IhDaLhluxJQ2fB1MBgt9iND1JepLT7nJgCLcBGAsYHQ/s200/spartacus.png" group-title="24/7 - Servidor 2",,24/7 Spartacus (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358974
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-5kK6RNlDNxo/XcsUbz6_QaI/AAAAAAAAA1w/UzftBLtHs1MIMfzokVQm9vPBeb8vwnatwCLcBGAsYHQ/s200/alf.png" group-title="24/7 - Servidor 2",,24/7 Alf (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358975
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Una familia de Diez  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-NeLBGPZPEak/XruyZsPZjMI/AAAAAAAAB8M/Swpm8sXOwKwKyzUbUcuEUA86cy5OEo5_ACLcBGAsYHQ/s200/Una%2Bfamilia%2Bde%2B10.png" group-title="24/7 - Servidor 2",,24/7 Una familia de Diez  (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358977
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago P.D (e)(720)" tvg-logo="https://1.bp.blogspot.com/-5J6elFgiJtQ/XsLcR1zr0uI/AAAAAAAAADE/NWUggIKJBAoxIbHMDEeYmc_DPoTkSGLvACK4BGAsYHg/s320/chicago_pd1.png" group-title="24/7 - Servidor 2",,24/7 Chicago P.D (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358978
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Agente 86 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-G1JKMI9bKqg/XsySJeLakrI/AAAAAAAAAJ0/l0nnrnOiNJgczUbmjqQXc5byxoppEcsQACK4BGAsYHg/agente86.png" group-title="24/7 - Servidor 2",,24/7 Super Agente 86 (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358979
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Aqui no hay quien viva (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-BoPMCqoohyM/Xs-NQIPIuFI/AAAAAAAACAc/Keor1Gp_BGMc-BLo0og23CFWVXz1xT-YACLcBGAsYHQ/s200/anhqv.png" group-title="24/7 - Servidor 2",,24/7 Aqui no hay quien viva (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358980
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends (e)(720)" tvg-logo="https://1.bp.blogspot.com/-V83auwlovgY/XtYD8p5jxII/AAAAAAAAATA/HmP92xZDjZUhxJqI4TkJDE6Uf9BTmy5sQCK4BGAsYHg/friends.png" group-title="24/7 - Servidor 2",,24/7 Friends (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358981
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Bella Genio (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-XeQNk8WYvoI/XtsdofG4cVI/AAAAAAAAAZI/71I7GTPrh10ruZd_Oj9FkZXli4sJIf3twCK4BGAsYHg/s512/mibellagenio.png" group-title="24/7 - Servidor 2",,24/7 Mi Bella Genio (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358982
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-jpc7wN-iqG4/XtwJtaQBs9I/AAAAAAAAAcQ/JLjKvVQlm5kOgr_fFVDnmJ_9u-TFvIEzwCK4BGAsYHg/s512/hechizada.png" group-title="24/7 - Servidor 2",,24/7 Hechizada (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358983
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Amor Real (e)(720)" tvg-logo="https://1.bp.blogspot.com/-DEgHPwyWST4/XucG8F_awoI/AAAAAAAACFM/SdmFrAzd2XUPU1nY6KF5bA2Xh0FrYu6-QCLcBGAsYHQ/s200/amor%2Breal.png" group-title="24/7 - Servidor 2",,24/7 Amor Real (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358984
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Ingalls " tvg-logo="https://1.bp.blogspot.com/-QZFPBDLGKVk/XucFQzWEw-I/AAAAAAAACE4/q4jRVn93awk7t5Ofen3pW4uK14DZHzOUACLcBGAsYHQ/s200/La%2Bcasa%2Ben%2Bla%2Bpradera.png" group-title="24/7 - Servidor 2",,24/7 La Familia Ingalls 
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358985
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Prison Break (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A4JMya_j2JY/XuRzWiRo-lI/AAAAAAAACEE/4uW4yh4-fT8_K4dc-r5Z9TPjnxG_DX-6gCLcBGAsYHQ/s200/prision.png" group-title="24/7 - Servidor 2",,24/7 Prison Break (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358986
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dr. House (e)(720)" tvg-logo="https://1.bp.blogspot.com/-ZVY2iWZLq6w/XyTAIQaDvHI/AAAAAAAACU8/l9ZPvvVKhhsYIufwda2MSoEueePjW4nNQCLcBGAsYHQ/s200/House.png" group-title="24/7 - Servidor 2",,24/7 Dr. House (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358987
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Tremenda Corte (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/3ddf426a041aa471ac39110d317d2fe1.png" group-title="24/7 - Servidor 2",,24/7 La Tremenda Corte (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/358988
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Looney Tunes" tvg-logo="https://1.bp.blogspot.com/-92r7xqdnzTY/XrJgCU5hEdI/AAAAAAAAB4k/6Ipob6YZnWEuhTULx2umPPH0X9UQSVYdgCLcBGAsYHQ/s200/Looney%2BToons.png" group-title="24/7 - Servidor 2",,24/7 | Looney Tunes
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359087
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ranma 1/2" tvg-logo="https://i.pinimg.com/564x/e5/a4/c7/e5a4c72b560428159aa5d865af178caa.jpg" group-title="24/7 - Servidor 2",,24/7 | Ranma 1/2
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359089
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S20 a S30  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-09Sc7rPuKWY/Xj2B7kEPxPI/AAAAAAAABE0/om-2Z5cxb9YbPczSR-I28kZpyaasZZQkgCLcBGAsYHQ/s200/The%2Bsimpsons%2Bdual.png" group-title="24/7 - Servidor 2",,24/7 Los Simpsons S20 a S30  (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359090
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Zoey 101 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-vGpJYLGRs_M/Xr2vbIdVW0I/AAAAAAAAB9E/k0Fd3XdqNJQIJthz48zYpy2Q_9cWaEafwCLcBGAsYHQ/s200/zoey.png" group-title="24/7 - Servidor 2",,24/7 Zoey 101 (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359091
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones 2002 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/--ZuE3vj4Oao/Xpl31M4oWuI/AAAAAAAABt4/FdB2_MghMdYD6ryoavWE8VjF1W96fpl1gCLcBGAsYHQ/s200/supercampeones%2B2002.png" group-title="24/7 - Servidor 2",,24/7 Super Campeones 2002 (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359092
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-UfU5HMG60l0/Xj4xhQurkVI/AAAAAAAABQw/W1NqD0WKk585q05amGo8MntWLCNreBKZwCLcBGAsYHQ/s200/gravity%2Bfalls.png" group-title="24/7 - Servidor 2",,24/7 Gravity Falls (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359094
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-tKZxLRncfcU/Xj45HF9THvI/AAAAAAAABTE/l9DsbWzfiw0r4LRELW0bpYLjGniIVBE2ACLcBGAsYHQ/s200/Peppa%2BPig.png" group-title="24/7 - Servidor 2",,24/7 Peppa Pig (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359095
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Phineas y Ferb  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-zv5jdSYW6t8/XrXRFIRB2lI/AAAAAAAAB6A/gN6Zac25zHMAVSOKqSzboNAvcaEaLrqzgCLcBGAsYHQ/s200/phineas%2By%2Bferb.png" group-title="24/7 - Servidor 2",,24/7 Phineas y Ferb  (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359096
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de Aventura (e)(720)" tvg-logo="https://1.bp.blogspot.com/-enq4hRvyO_Y/XsLY0TFXMcI/AAAAAAAAACU/X96X97-R3KAlgD2UsCs7zpeq_HjYiIlYACK4BGAsYHg/s320/hora_aventura.png" group-title="24/7 - Servidor 2",,24/7 Hora de Aventura (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359097
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hajime no Ippo (e)(720)" tvg-logo="https://1.bp.blogspot.com/-X4kV2kfViH4/XsmMSqKjKPI/AAAAAAAAB_M/5XVHUGSOB_40mSh2BNN04XauCnri38f0wCLcBGAsYHQ/s200/Espiritu%2Bde%2Blucha.png" group-title="24/7 - Servidor 2",,24/7 Hajime no Ippo (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359098
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jimmy Neutron (e)" tvg-logo="https://1.bp.blogspot.com/-sZJ878vGHbo/XuBV0sZmgUI/AAAAAAAAAlU/1keQK0Av-8wSJ7HZNCK4rnNKFAH5C9v5QCK4BGAsYHg/s320/jimmyneutron.png" group-title="24/7 - Servidor 2",,24/7 Jimmy Neutron (e)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359099
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RUBI" tvg-logo="http://zuihaode.site:25461/images/344720e6f7c90c56093648cd8b2adb19.png" group-title="24/7 - Servidor 2",,24/7 RUBI
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/226655
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BRUCE LEE" tvg-logo="http://zuihaode.site:25461/images/31c8fe8f3d3bf7aea0fbe4275cab1c74.png" group-title="24/7 - Servidor 2",,24/7 | BRUCE LEE
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/284511
+#EXTINF:-1 tvg-id="" tvg-name="24/7 María Mercedes (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-lTilkZxbtW4/X0sR1YHSEuI/AAAAAAAACcI/JZ6fxlv28eM38wlKD3S6cB6GrJXkqXVOACLcBGAsYHQ/w209-h209/Maria%2BMercedes.png" group-title="24/7 - Servidor 2",,24/7 María Mercedes (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359990
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La hija del Mariachi (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-yS98BRL4YQo/X3OZhv5liKI/AAAAAAAAChE/iTQCo76abpg8FJaSmGUXxZlmBJh7IzIkgCLcBGAsYHQ/w200-h200/La%2Bhija%2Bdel%2BMariachi.png" group-title="24/7 - Servidor 2",,24/7 La hija del Mariachi (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359991
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Diarios De Vampiros (e)(720)" tvg-logo="https://1.bp.blogspot.com/-Txjt-u0gWbs/X3TNsMmJbDI/AAAAAAAABuo/aajSHaW_6WYe6J3owH2pl7UNTSbxIs6lQCLcBGAsYHQ/w200-h200/Vampiro.png" group-title="24/7 - Servidor 2",,24/7 Diarios De Vampiros (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/359992
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Xica Da Silva (e)(720)" tvg-logo="https://1.bp.blogspot.com/-NJOc9-SWj_U/X3J0oF4n3CI/AAAAAAAACf8/68oyNbD9RcYCn2SV6X89nir5s2CKLVo4ACLcBGAsYHQ/w200-h200/Xica%2Bda%2Bsilva.png" group-title="24/7 - Servidor 2",,24/7 Xica Da Silva (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/367632
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Avenida Brasil (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-o-7DNVUEuAQ/X3J6bm4wnWI/AAAAAAAACgI/39dwxO8j7EgXr8zT7A2JmmTHCH1cvGAoACLcBGAsYHQ/w200-h200/Avenida%2BBrasil.png" group-title="24/7 - Servidor 2",,24/7 Avenida Brasil (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/367633
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Casado con hijos (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-7vkOI2PAA9A/X3KG4jr2g4I/AAAAAAAACgU/USxNFM5XzLYCpEXpVXYjPlvOK-wLIyLPQCLcBGAsYHQ/w200-h200/Casado%2BCon%2BHijos.png" group-title="24/7 - Servidor 2",,24/7 Casado con hijos (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/367634
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Corazon Salvaje (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-aPTvvD3c3dk/X3NkGlyCPHI/AAAAAAAACgs/GS8CyNfDHPIUnLTrpHyovlapCzhrY8NgACLcBGAsYHQ/w200-h200/Corazon%2BSalvaje.png" group-title="24/7 - Servidor 2",,24/7 Corazon Salvaje (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/367635
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cuna de lobos (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-0RzBYk61mqM/X3OU1bFOmwI/AAAAAAAACg4/SgHUZGI5MtYJqepBd8PMvWBzO0r5MBm-gCLcBGAsYHQ/w200-h200/Cuna%2Bde%2Blobos.png" group-title="24/7 - Servidor 2",,24/7 Cuna de lobos (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/367636
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDERMAN 1997 (CLASICO)" tvg-logo="" group-title="24/7 - Servidor 2",,24/7 SPIDERMAN 1997 (CLASICO)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/375161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Usurpadora (e)(SD)" tvg-logo="https://1.bp.blogspot.com/--SSS-nUEQrg/X0sR1XkPJbI/AAAAAAAACcM/dYfxRbaoANsQ8xtkwMbaBVlo3MeeeHWVQCLcBGAsYHQ/w210-h210/la%2Busurpadora.png" group-title="24/7 - Servidor 2",,24/7 La Usurpadora (e)(SD)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/380785
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jackie Chan (e)(HQ)" tvg-logo="https://1.bp.blogspot.com/-P69_VlVDRhA/Xx5d4AvZQQI/AAAAAAAAAi8/eLFKm5LJOswhSNYE9gTOlK5fM1QA2Y9fgCLcBGAsYHQ/w200-h200/jack.png" group-title="24/7 - Servidor 2",,24/7 Jackie Chan (e)(HQ)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/380786
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Glee (e)(720)" tvg-logo="https://1.bp.blogspot.com/-qFyatAehuzA/Xw46Zn7dinI/AAAAAAAACRY/-87Y8UbdiaAVqPeRjxn3jOQHfskQ5tPdwCLcBGAsYHQ/s200/glee.png" group-title="24/7 - Servidor 2",,24/7 Glee (e)(720)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/380787
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Universo DC (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ehi82pE0uwo/Xtk-fajn97I/AAAAAAAAAV8/OQfcpuxcEdE2dTnpulirZHhOda2-15YVACK4BGAsYHg/s640/dc_univ.png" group-title="24/7 - Servidor 2",,24/7 Universo DC (e)(1080)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/380791
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Universo Marvel (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-iIuHR7Dbf2g/Xj5AV5ecoGI/AAAAAAAABVE/ZkaINxNjivIXMGI--UHNlkPdIjqMJtfFwCLcBGAsYHQ/s200/marvel.png" group-title="24/7 - Servidor 2",,24/7 Universo Marvel (e)(1080)
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/380794
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DOS HOMBRES Y MEDIO " tvg-logo="https://1.bp.blogspot.com/-CNvvRR9f3JE/Xs8cZwggVSI/AAAAAAAAALA/EEPz9GMvxHo9U_TCkEm1rjxMEY9kMmK6gCK4BGAsYHg/s320/halfmen.png" group-title="24/7 - Servidor 2",,24/7 DOS HOMBRES Y MEDIO 
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/384478
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALERTA AEROPUERTO" tvg-logo="https://bitacoranoticias.com/wp-content/uploads/2015/01/aeropuerto.jpg" group-title="24/7 - Servidor 2",,24/7 ALERTA AEROPUERTO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/381736
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II Bonanza " tvg-logo="https://1.bp.blogspot.com/-_G2TZjQkevk/Xpl1IdBbqHI/AAAAAAAABtM/hnRqD53apVYOkmYMbYZL0FYK-6O-_CBvwCLcBGAsYHQ/s200/Bonanza.png" group-title="24/7 - Servidor 2",,24/7 II Bonanza 
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/386288
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHAVO ANIMADO" tvg-logo="" group-title="24/7 - Servidor 2",,24/7 CHAVO ANIMADO
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/394984
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II Shark Tank México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Shark_Tank_TV_logo.svg/1200px-Shark_Tank_TV_logo.svg.png" group-title="24/7 - Servidor 2",,24/7 II Shark Tank México
+http://factoryplay.online:8080/PaolaCalderon/H9WZ7xSwCm/400857
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Buen Doctor  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-pnPkIa32QD4/XrkGirBhr2I/AAAAAAAAB70/Azfjx182F2IpYj8FlxNo7B7tJsF1qsB_gCLcBGAsYHQ/s200/the%2Bgood%2Bdoctor.png" group-title="24/7 - Servidor 3",24/7 El Buen Doctor  (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358976
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NOVELAS ROMANCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wtLtzMgaoSLpztEr8kNpDnPjkwQsMfXGDg&usqp=CAU" group-title="24/7 - Servidor 3",24/7 NOVELAS ROMANCE
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225533
+#EXTINF:-1 tvg-id="" tvg-name="24/7:EL CHAVO DEL 8 24/7" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="24/7 - Servidor 3",24/7:EL CHAVO DEL 8 24/7
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103841
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CASO CERRADO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAEK1MXja5WBcUZcK-6y7mOQyH021Cmd7E6Zo7Uu5IZ82pSdShdLiZdb8QYbFwV2s7mzc&usqp=CAU" group-title="24/7 - Servidor 3",24/7: CASO CERRADO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103844
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3" tvg-logo="http://daleplaypro.com:8080/images/7c17ac592bd9d05f47f90954934e9e49.jpg" group-title="24/7 - Servidor 3",24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103848
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL SUPER" tvg-logo="https://i.pinimg.com/564x/f8/5d/3b/f85d3bd25ae48b3803102ae3431dd7d4.jpg" group-title="24/7 - Servidor 3",24/7 SERIES INFANTILES | DRAGON BALL SUPER
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | CHAVO DEL OCHO" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="24/7 - Servidor 3",24/7 SERIES INFANTILES | CHAVO DEL OCHO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | PICAPIEDRAS" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9MhSlot12I7qc0fQ9zVXQCdI_-YGTD534uZ8cOc21u-qNFHw9" group-title="24/7 - Servidor 3",24/7 SERIES INFANTILES | PICAPIEDRAS
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/103909
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054" group-title="24/7 - Servidor 3",24/7 Ben 10
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225376
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE MICKEY MOUSE" tvg-logo="https://1.bp.blogspot.com/-WUX_C4kXCic/Xp-KsRNB3tI/AAAAAAAAByA/XemVnjhpy-8U2nCQBhM9lDW9crnWtyf-gCLcBGAsYHQ/s200/la%2Bcasa%2Bde%2Bmickey%2Bmouse.png" group-title="24/7 - Servidor 3",24/7 LA CASA DE MICKEY MOUSE
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225377
+#EXTINF:-1 tvg-id="" tvg-name="24/7 24/7 Dragon Ball GT" tvg-logo="https://i.pinimg.com/564x/f8/5d/3b/f85d3bd25ae48b3803102ae3431dd7d4.jpg" group-title="24/7 - Servidor 3",24/7 24/7 Dragon Ball GT
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225389
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://i.pinimg.com/564x/a8/7a/3f/a87a3f775e607920bce1e6b48939d5db.jpg" group-title="24/7 - Servidor 3",24/7 Dragon Ball Super
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225399
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://1.bp.blogspot.com/-9QRBpngsE2E/XplxrhNtWYI/AAAAAAAABsM/R2cL6D838WEXFy00FHDxiHe1tjFZFP5AgCLcBGAsYHQ/s200/freezer.png" group-title="24/7 - Servidor 3",24/7 Dragon Ball Z
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225401
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado Animado (p)(480)" tvg-logo="https://www.themoviedb.org/t/p/w500/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="24/7 - Servidor 3",24/7 El Chapulin Colorado Animado (p)(480)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225407
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DC Comics Series" tvg-logo="s:1:/images/9c81f76d372f469ffc116cad247ec06c.jpeg" group-title="24/7 - Servidor 3",24/7 DC Comics Series
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225444
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso " tvg-logo="s:1:/images/41c23546f85722802ba2df8a9062f150.png" group-title="24/7 - Servidor 3",24/7 Masha y el Oso 
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225447
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAZINGER" tvg-logo="https://www.oceano.mx/img/obra/media/11683.jpg" group-title="24/7 - Servidor 3",24/7 MAZINGER
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225455
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Popeye El Marino (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-f3GZ8HyrNm4/XruyVDAPTsI/AAAAAAAAB8E/eWXSksxZ0eo8jvpS7AviAFbgwdt_Ux50gCLcBGAsYHQ/s200/popeye%2Bel%2Bmarino.png" group-title="24/7 - Servidor 3",24/7 Popeye El Marino (e)(1080)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225462
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom and Jerry" tvg-logo="s:1:/images/38185ae0145adef6d2b4253d931b1eb5.jpg" group-title="24/7 - Servidor 3",24/7 Tom and Jerry
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225470
+#EXTINF:-1 tvg-id="" tvg-name="24/7 iCarly" tvg-logo="s:1:/images/0fcbcd597d2390a9136d36e3af85981d.jpg" group-title="24/7 - Servidor 3",24/7 iCarly
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225475
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="https://www.justwatch.com/images/poster/260137123/s332/temporada-5" group-title="24/7 - Servidor 3",24/7 Hey Arnold
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225478
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chapulin colorado" tvg-logo="https://www.themoviedb.org/t/p/w500/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="24/7 - Servidor 3",24/7 | El chapulin colorado
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225483
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB SPONJA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Gl7or4F_F5oj4tfF2D462TCuUPCsqdu1Sw&usqp=CAU" group-title="24/7 - Servidor 3",24/7 | BOB SPONJA
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225485
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON" tvg-logo="s:1:/images/db199ab3d760c847084950b71707dffc.jpeg" group-title="24/7 - Servidor 3",24/7 | DIGIMON
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225486
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="https://www.justwatch.com/images/backdrop/251369049/s640/el-show-de-la-pantera-rosa" group-title="24/7 - Servidor 3",24/7 | LA PANTERA ROSA
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225488
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MIS ADORABLES ENTENADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/MIS_ADORABLES_ENTENADOS.png" group-title="24/7 - Servidor 3",24/7 MIS ADORABLES ENTENADOS
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225500
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="https://1.bp.blogspot.com/-0S3rPo9zGmw/XwuWfdRZfsI/AAAAAAAAAVc/dsW05OtBVksSkmfHVJMZekvHHoMhT-VfgCLcBGAsYHQ/w200-h200/cantiflas.png" group-title="24/7 - Servidor 3",24/7 CANTINFLAS
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225503
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHESPIRITO" tvg-logo="http://zuihaode.site:25461/images/2c4a3b93f063617b3a3b76bb0e6786c7.jpg" group-title="24/7 - Servidor 3",24/7 CHESPIRITO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225530
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200/el%2Bchavo%2Bdel%2B8%2Bhq%2B2.png" group-title="24/7 - Servidor 3",24/7 El Chavo del Ocho
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225537
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the Middle 1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Malcolm-in-the-middle.jpg/revision/latest?cb=20220813175946&path-prefix=es" group-title="24/7 - Servidor 3",24/7 Malcolm in the Middle 1
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225563
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 24/7" tvg-logo="https://i.imgur.com/mx1CCCP.jpg" group-title="24/7 - Servidor 3",Los Simpsons 24/7
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226650
+#EXTINF:-1 tvg-id="" tvg-name="EL GALLO CLAUDIO 24/7" tvg-logo="s:1:/images/acb4a1f707d46b6f208fa1e2e3771e55.jpg" group-title="24/7 - Servidor 3",EL GALLO CLAUDIO 24/7
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226653
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PASADO Y CONFESO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVhNjhhNWUtOWE4NS00Yjc3LWJhMWYtNzFhMmY0ZGIzNzYwXkEyXkFqcGdeQXVyMDc4OTk1MA@@._V1_.jpg" group-title="24/7 - Servidor 3",24/7 PASADO Y CONFESO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/227368
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA" tvg-logo="s:1:/images/4371f57b8c914c59d60c6ea901a114e8.jpg" group-title="24/7 - Servidor 3",24/7 FUTURAMA
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/227846
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL" tvg-logo="s:1:/images/4869feaa5890c5a7c9de080283993ab6.png" group-title="24/7 - Servidor 3",24/7 PAW PATROL
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/234899
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LA TEORIA DEL BIG BANG" tvg-logo="s:1:/images/e23b90c524e9b63b3f2c6df1928457cc.jpg" group-title="24/7 - Servidor 3",24/7: LA TEORIA DEL BIG BANG
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239038
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS TRES CHIFLADOS " tvg-logo="" group-title="24/7 - Servidor 3",24/7: LOS TRES CHIFLADOS 
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239071
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIA (Dual Audio) | ACAPULCO SHORE" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDbZqPZ-A0Dj39LsIXYmweTTALT-Kao5pzCYcfYeHDXuQ.png" group-title="24/7 - Servidor 3",24/7 SERIES COMEDIA (Dual Audio) | ACAPULCO SHORE
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239275
+#EXTINF:-1 tvg-id="" tvg-name="24/7:SOUTH PARK SERIE TEMPORADA 11 -22 HD 24/7." tvg-logo="s:1:/images/870c79262e371b84d9517a669d95531b.png" group-title="24/7 - Servidor 3",24/7:SOUTH PARK SERIE TEMPORADA 11 -22 HD 24/7.
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PADRE DE FMILIA" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C7D49FC5064B8902FDBCFB2E2BA5C273604B75085E835DB1F211FF24993D6EF2/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7 - Servidor 3",24/7 PADRE DE FMILIA
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/239279
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 100" tvg-logo="https://www.justwatch.com/images/poster/243672625/s332/temporada-7" group-title="24/7 - Servidor 3",24/7 Los 100
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246480
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Manual de supervivencia escolar de Ned" tvg-logo="s:1:/images/cdae79814473ee98a10fa60a81e410ed.jpg" group-title="24/7 - Servidor 3",24/7 Manual de supervivencia escolar de Ned
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246482
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del Zodiaco Hades & Alma de oro" tvg-logo="s:1:/images/0c9778cba9615b4ca2e6543eb484d74d.jpg" group-title="24/7 - Servidor 3",24/7 Caballeros del Zodiaco Hades & Alma de oro
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246486
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Thundercats" tvg-logo="s:1:/images/541ecf4517ba1f3318efa2cd2b58f736.jpg" group-title="24/7 - Servidor 3",24/7 | Los Thundercats
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246488
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | coraje el perro cobarde" tvg-logo="https://static.wikia.nocookie.net/corajeelperrocobarde/images/1/1c/Coraje_el_perro_cobardepng.png/revision/latest?cb=20211110204145&path-prefix=es" group-title="24/7 - Servidor 3",24/7 | coraje el perro cobarde
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246497
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1" tvg-logo="https://1.bp.blogspot.com/-kqUuT0gNWrw/Xj4eBMzNdFI/AAAAAAAABLo/poj4TwXXOpYtphwwCtx5tSs2YEq4WiqOwCLcBGAsYHQ/s200/La%2BFamilia%2BP%2BLuche.png" group-title="24/7 - Servidor 3",24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/246834
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos (e)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png" group-title="24/7 - Servidor 3",24/7 Vecinos (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/264761
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo (p)(1080)" tvg-logo="https://d2lv662meabn0u.cloudfront.net/boomerang/dynamic/show/00000000/914/cba96468044d1d510c7616f30fe5d653e9d70dea_1576257349.jpg" group-title="24/7 - Servidor 3",24/7 Scooby-Doo (p)(1080)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265622
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Yu-Gi-Oh" tvg-logo="s:1:/images/bd549cc02913b5a3b008c3ab680f1a22.jpg" group-title="24/7 - Servidor 3",24/7 | Yu-Gi-Oh
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265625
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Boo (e)(720)" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/35e4ac6339f5fdcc164160a5755790cd.jpe" group-title="24/7 - Servidor 3",24/7 Dragon Ball Z - Saga Majin Boo (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265627
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S01 a S20" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/36E34B32E2AA84C4E2B8DEE59F978AC8815CD8A1BDD33E32B4A66E230C2547DD/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7 - Servidor 3",24/7 Los Simpsons S01 a S20
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265628
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Zenki (e)(720)" tvg-logo="s:1:/images/d83914d696096927ff9885265388e9c3.jpg" group-title="24/7 - Servidor 3",24/7 Zenki (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265629
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los AÃ±os Maravillosos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e6/Los_a%C3%B1os_maravillosos-6ta_temp._poster-1a1.jpg/revision/latest?cb=20151005023504&path-prefix=es" group-title="24/7 - Servidor 3",24/7 Los AÃ±os Maravillosos
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265630
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Victorious (e)(720)" tvg-logo="https://cdn.playpilot.tech/90564fc0c83911ecaff60a58a9feac02/src/img?optimizer=image&quality=75&width=1280&aspect_ratio=16%3A9" group-title="24/7 - Servidor 3",24/7 Victorious (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265633
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)(720)" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/36bdc5ea4443cd8e42f22ec7d3884cbb.jpe" group-title="24/7 - Servidor 3",24/7 Dragon Ball Z - Saga Cell (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265634
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pocoyo (e)(1080)" tvg-logo="s:1:/images/ec0eedce134c3ad4f36e3d706f6acb5a.png" group-title="24/7 - Servidor 3",24/7 Pocoyo (e)(1080)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265635
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the Middle (e)(720)" tvg-logo="https://1.bp.blogspot.com/-odJlX1hGdQg/Xj2GPrvK-lI/AAAAAAAABFw/paCmPfpVMuQamOZZJu-opunknyq1Y0eNQCLcBGAsYHQ/s200/Malcolm%2Bin%2Bthe%2BMiddle.png" group-title="24/7 - Servidor 3",24/7 Malcolm in the Middle (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265639
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Walker Texas Ranger " tvg-logo="https://1.bp.blogspot.com/-YfKJ3i-vIAw/Xq9KH4OBhXI/AAAAAAAAB3g/ckaBMgZZg14vgSXD9L5kyZ5TH0wig_TfwCLcBGAsYHQ/s200/Walker%2BTexas%2BRanger.png" group-title="24/7 - Servidor 3",24/7 Walker Texas Ranger 
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265643
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap " tvg-logo="https://1.bp.blogspot.com/-ml7YA5cWw-0/XtX-SZtmUhI/AAAAAAAAASU/hdAzuBbvLMUv7fIa0VAVQYmnxSVnllGNwCK4BGAsYHg/principe_rap.png" group-title="24/7 - Servidor 3",24/7 El Principe del Rap 
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265650
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Magnificos" tvg-logo="https://1.bp.blogspot.com/-gHxT8rpIpp8/XucI3YSTp1I/AAAAAAAACFg/85PRze-JpxE6Hzt5H660vpr6U5DhLe7GwCLcBGAsYHQ/s200/Los%2Bmagnificos.png" group-title="24/7 - Servidor 3",24/7 Los Magnificos
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265652
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Auto Fantastico (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-8DzP5qN4HIY/XucILmmQ64I/AAAAAAAACFY/uEPJyj-kb-YKw_LJHoY91RlZGWKMMz_VgCLcBGAsYHQ/s200/El%2Bauto%2Bfantastico.png" group-title="24/7 - Servidor 3",24/7 El Auto Fantastico (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265653
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH RETRO" tvg-logo="http://playentertainment.ddns.net:25461/images/288313db9558f204fa5a99f5305715d4.jpg" group-title="24/7 - Servidor 3",24/7 BAYWATCH RETRO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265668
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro Infante (e)(SD)" tvg-logo="s:1:/images/03595f1cef4e029f11b60267bd23a6ca.jpg" group-title="24/7 - Servidor 3",24/7 Pedro Infante (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265669
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE BING BANG THEORY " tvg-logo="https://1.bp.blogspot.com/-MQq7HsyxI1o/Xw-5d_pUOkI/AAAAAAAACSY/mACBl_Coox49n-pmoRlS_6pW2PbE-Ap7wCLcBGAsYHQ/s200/the%2Bbig%2Bbang%2Btheory%2B2.png" group-title="24/7 - Servidor 3",24/7  THE BING BANG THEORY 
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265670
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Inuyasha (e)(720)" tvg-logo="https://static.wikia.nocookie.net/inuyasha/images/1/18/InuYasha_%28Anime%29.jpg/revision/latest?cb=20201013123530&path-prefix=es" group-title="24/7 - Servidor 3",24/7 Inuyasha (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265691
+#EXTINF:-1 tvg-id="" tvg-name="24/7  MAZZINGER Z" tvg-logo="https://1.bp.blogspot.com/-4CZl2E54_6M/XvGUjOTon7I/AAAAAAAACOM/rM37DgPpkP4dNe4g4ulsl4lZG2I9EKcHgCLcBGAsYHQ/s200/Mazinger%2BZ.png" group-title="24/7 - Servidor 3",24/7  MAZZINGER Z
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265693
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" tvg-logo="s:1:/images/8da1d7a7fde22f0878beadad7d996047.jpg" group-title="24/7 - Servidor 3",24/7 Fear the Walking Dead
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265695
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="https://1.bp.blogspot.com/-q5PwmWJPpOQ/Xris97LioOI/AAAAAAAAB7c/DlpOHv47WnITsSMH_NY-ROrtvklWLU5-QCLcBGAsYHQ/s200/La%2Bcasa%2Bde%2Bpapel.png" group-title="24/7 - Servidor 3",24/7 LA CASA DE PAPEL
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265696
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Doraemon" tvg-logo="https://1.bp.blogspot.com/-YQ2SyK6S5P8/Xt7k4PlsHbI/AAAAAAAAAhM/hN4Q74lwqUMeCVx2y7jBDVDPj10gWPCRQCK4BGAsYHg/s320/doraemon.png" group-title="24/7 - Servidor 3",24/7 | Doraemon
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/270886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Macgyver (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-mBeHo08xY3I/Xw46X3P8z-I/AAAAAAAACRE/JBwgv6JoSf8v4CBqrrTjtslhijhfBCVxACLcBGAsYHQ/s200/Macgyver.png" group-title="24/7 - Servidor 3",24/7 Macgyver (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/270887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIVOS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9U4Ea0jXxz1zVAo7db4vE8AVGkCargN5oSVtp6=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 - Servidor 3",24/7 VIVOS
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/278213
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AIDA ECUADOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3z45kpXVGcu-ot8jakjhDmhP2RGkHsiI4w&usqp=CAU" group-title="24/7 - Servidor 3",24/7 AIDA ECUADOR
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/278215
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MIS ADORABKLE ENTENADOS 2021 (ECU)" tvg-logo="s:1:/images/d1c671fc51518555fa249ac792fb4844.jpg" group-title="24/7 - Servidor 3",24/7 MIS ADORABKLE ENTENADOS 2021 (ECU)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/278216
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II MI RECINTO EC" tvg-logo="s:1:/images/8075578df65ac5eb0fba1a35c4ced049.jpeg" group-title="24/7 - Servidor 3",24/7 II MI RECINTO EC
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289257
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II  ARCHIVOS DEL DESTINO" tvg-logo="http://playentertainment.ddns.net:25461/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="24/7 - Servidor 3",24/7 II  ARCHIVOS DEL DESTINO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH RETRO" tvg-logo="http://playentertainment.ddns.net:25461/images/288313db9558f204fa5a99f5305715d4.jpg" group-title="24/7 - Servidor 3",24/7 BAYWATCH RETRO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289259
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II DE LA VIDA REAL" tvg-logo="https://www.ecured.cu/images/thumb/2/20/De_la_vida_real.jpg/260px-De_la_vida_real.jpg" group-title="24/7 - Servidor 3",24/7 II DE LA VIDA REAL
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289260
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL ZORRO RETRO" tvg-logo="https://1.bp.blogspot.com/-jmc42p54lno/XucPVOxYp5I/AAAAAAAACGk/dOiIBs6ouUo6-B01jsR024SaFlDGwVe_QCLcBGAsYHQ/s200/El%2Bzorro.png" group-title="24/7 - Servidor 3",24/7 EL ZORRO RETRO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/289261
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yo Soy Betty la fea" tvg-logo="http://zuihaode.site:25461/images/82b054bd83ffad9b6cf8bdb98ce3cc2f.png" group-title="24/7 - Servidor 3",24/7 Yo Soy Betty la fea
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/234910
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Marimar" tvg-logo="http://zuihaode.site:25461/images/7f9b9e003ec7b6af4b8e82f8c23fe6a0.png" group-title="24/7 - Servidor 3",24/7 Marimar
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226661
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cafe Con Aroma De Mujer (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/3f41f620440679e27166223cb2fb88ae.png" group-title="24/7 - Servidor 3",24/7 Cafe Con Aroma De Mujer (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265661
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ecomoda (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/8adddf12a18986e466e57d4e813ece7f.png" group-title="24/7 - Servidor 3",24/7 Ecomoda (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/265660
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Luz Clarita" tvg-logo="http://zuihaode.site:25461/images/94a01dd309dbd635a2178dab3aa704a5.png" group-title="24/7 - Servidor 3",24/7 Luz Clarita
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/225561
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maria la del barrio" tvg-logo="http://zuihaode.site:25461/images/df1f1660683ebf91542f198419c1c875.png" group-title="24/7 - Servidor 3",24/7 Maria la del barrio
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226659
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de Tronos (e)(720)" tvg-logo="https://1.bp.blogspot.com/-DMCrrOhXRhQ/Xj4KMCshfQI/AAAAAAAABJI/1rfzC9vtSLAPSJvini8sC8VujVngCE3bwCLcBGAsYHQ/s200/Game%2Bof%2BThrones.png" group-title="24/7 - Servidor 3",24/7 Juego de Tronos (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358971
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Walking Dead (e)(720)" tvg-logo="https://1.bp.blogspot.com/-9SIedouBwcU/XqMzVslLmUI/AAAAAAAAB0I/_lg-U-5BM6gw796dLkwRxQn8EHkTblyfgCLcBGAsYHQ/s200/the%2Bwalking%2Bdead.png" group-title="24/7 - Servidor 3",24/7 The Walking Dead (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358972
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter (e) (1080)" tvg-logo="https://1.bp.blogspot.com/-3E9IXL3-Is4/XudDBL43PbI/AAAAAAAACI0/JB7-fLvlQ64pWLx48cXF2AXMyxFYRwUKACLcBGAsYHQ/s200/harry%2Bpotter.png" group-title="24/7 - Servidor 3",24/7 Harry Potter (e) (1080)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358973
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spartacus (e)(720)" tvg-logo="https://1.bp.blogspot.com/-SWQ_yZ2wNpM/XqcxlM91iqI/AAAAAAAAB1k/IhDaLhluxJQ2fB1MBgt9iND1JepLT7nJgCLcBGAsYHQ/s200/spartacus.png" group-title="24/7 - Servidor 3",24/7 Spartacus (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358974
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-5kK6RNlDNxo/XcsUbz6_QaI/AAAAAAAAA1w/UzftBLtHs1MIMfzokVQm9vPBeb8vwnatwCLcBGAsYHQ/s200/alf.png" group-title="24/7 - Servidor 3",24/7 Alf (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358975
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Una familia de Diez  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-NeLBGPZPEak/XruyZsPZjMI/AAAAAAAAB8M/Swpm8sXOwKwKyzUbUcuEUA86cy5OEo5_ACLcBGAsYHQ/s200/Una%2Bfamilia%2Bde%2B10.png" group-title="24/7 - Servidor 3",24/7 Una familia de Diez  (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358977
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago P.D (e)(720)" tvg-logo="https://1.bp.blogspot.com/-5J6elFgiJtQ/XsLcR1zr0uI/AAAAAAAAADE/NWUggIKJBAoxIbHMDEeYmc_DPoTkSGLvACK4BGAsYHg/s320/chicago_pd1.png" group-title="24/7 - Servidor 3",24/7 Chicago P.D (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358978
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Agente 86 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-G1JKMI9bKqg/XsySJeLakrI/AAAAAAAAAJ0/l0nnrnOiNJgczUbmjqQXc5byxoppEcsQACK4BGAsYHg/agente86.png" group-title="24/7 - Servidor 3",24/7 Super Agente 86 (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358979
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Aqui no hay quien viva (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-BoPMCqoohyM/Xs-NQIPIuFI/AAAAAAAACAc/Keor1Gp_BGMc-BLo0og23CFWVXz1xT-YACLcBGAsYHQ/s200/anhqv.png" group-title="24/7 - Servidor 3",24/7 Aqui no hay quien viva (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358980
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends (e)(720)" tvg-logo="https://1.bp.blogspot.com/-V83auwlovgY/XtYD8p5jxII/AAAAAAAAATA/HmP92xZDjZUhxJqI4TkJDE6Uf9BTmy5sQCK4BGAsYHg/friends.png" group-title="24/7 - Servidor 3",24/7 Friends (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358981
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Bella Genio (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-XeQNk8WYvoI/XtsdofG4cVI/AAAAAAAAAZI/71I7GTPrh10ruZd_Oj9FkZXli4sJIf3twCK4BGAsYHg/s512/mibellagenio.png" group-title="24/7 - Servidor 3",24/7 Mi Bella Genio (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358982
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-jpc7wN-iqG4/XtwJtaQBs9I/AAAAAAAAAcQ/JLjKvVQlm5kOgr_fFVDnmJ_9u-TFvIEzwCK4BGAsYHg/s512/hechizada.png" group-title="24/7 - Servidor 3",24/7 Hechizada (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358983
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Amor Real (e)(720)" tvg-logo="https://1.bp.blogspot.com/-DEgHPwyWST4/XucG8F_awoI/AAAAAAAACFM/SdmFrAzd2XUPU1nY6KF5bA2Xh0FrYu6-QCLcBGAsYHQ/s200/amor%2Breal.png" group-title="24/7 - Servidor 3",24/7 Amor Real (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358984
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Ingalls " tvg-logo="https://1.bp.blogspot.com/-QZFPBDLGKVk/XucFQzWEw-I/AAAAAAAACE4/q4jRVn93awk7t5Ofen3pW4uK14DZHzOUACLcBGAsYHQ/s200/La%2Bcasa%2Ben%2Bla%2Bpradera.png" group-title="24/7 - Servidor 3",24/7 La Familia Ingalls 
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358985
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Prison Break (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A4JMya_j2JY/XuRzWiRo-lI/AAAAAAAACEE/4uW4yh4-fT8_K4dc-r5Z9TPjnxG_DX-6gCLcBGAsYHQ/s200/prision.png" group-title="24/7 - Servidor 3",24/7 Prison Break (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358986
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dr. House (e)(720)" tvg-logo="https://1.bp.blogspot.com/-ZVY2iWZLq6w/XyTAIQaDvHI/AAAAAAAACU8/l9ZPvvVKhhsYIufwda2MSoEueePjW4nNQCLcBGAsYHQ/s200/House.png" group-title="24/7 - Servidor 3",24/7 Dr. House (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358987
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Tremenda Corte (e)(SD)" tvg-logo="http://zuihaode.site:25461/images/3ddf426a041aa471ac39110d317d2fe1.png" group-title="24/7 - Servidor 3",24/7 La Tremenda Corte (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/358988
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Looney Tunes" tvg-logo="https://1.bp.blogspot.com/-92r7xqdnzTY/XrJgCU5hEdI/AAAAAAAAB4k/6Ipob6YZnWEuhTULx2umPPH0X9UQSVYdgCLcBGAsYHQ/s200/Looney%2BToons.png" group-title="24/7 - Servidor 3",24/7 | Looney Tunes
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359087
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ranma 1/2" tvg-logo="https://i.pinimg.com/564x/e5/a4/c7/e5a4c72b560428159aa5d865af178caa.jpg" group-title="24/7 - Servidor 3",24/7 | Ranma 1/2
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359089
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S20 a S30  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-09Sc7rPuKWY/Xj2B7kEPxPI/AAAAAAAABE0/om-2Z5cxb9YbPczSR-I28kZpyaasZZQkgCLcBGAsYHQ/s200/The%2Bsimpsons%2Bdual.png" group-title="24/7 - Servidor 3",24/7 Los Simpsons S20 a S30  (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359090
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Zoey 101 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-vGpJYLGRs_M/Xr2vbIdVW0I/AAAAAAAAB9E/k0Fd3XdqNJQIJthz48zYpy2Q_9cWaEafwCLcBGAsYHQ/s200/zoey.png" group-title="24/7 - Servidor 3",24/7 Zoey 101 (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359091
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones 2002 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/--ZuE3vj4Oao/Xpl31M4oWuI/AAAAAAAABt4/FdB2_MghMdYD6ryoavWE8VjF1W96fpl1gCLcBGAsYHQ/s200/supercampeones%2B2002.png" group-title="24/7 - Servidor 3",24/7 Super Campeones 2002 (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359092
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-UfU5HMG60l0/Xj4xhQurkVI/AAAAAAAABQw/W1NqD0WKk585q05amGo8MntWLCNreBKZwCLcBGAsYHQ/s200/gravity%2Bfalls.png" group-title="24/7 - Servidor 3",24/7 Gravity Falls (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359094
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-tKZxLRncfcU/Xj45HF9THvI/AAAAAAAABTE/l9DsbWzfiw0r4LRELW0bpYLjGniIVBE2ACLcBGAsYHQ/s200/Peppa%2BPig.png" group-title="24/7 - Servidor 3",24/7 Peppa Pig (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359095
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Phineas y Ferb  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-zv5jdSYW6t8/XrXRFIRB2lI/AAAAAAAAB6A/gN6Zac25zHMAVSOKqSzboNAvcaEaLrqzgCLcBGAsYHQ/s200/phineas%2By%2Bferb.png" group-title="24/7 - Servidor 3",24/7 Phineas y Ferb  (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359096
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de Aventura (e)(720)" tvg-logo="https://1.bp.blogspot.com/-enq4hRvyO_Y/XsLY0TFXMcI/AAAAAAAAACU/X96X97-R3KAlgD2UsCs7zpeq_HjYiIlYACK4BGAsYHg/s320/hora_aventura.png" group-title="24/7 - Servidor 3",24/7 Hora de Aventura (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359097
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hajime no Ippo (e)(720)" tvg-logo="https://1.bp.blogspot.com/-X4kV2kfViH4/XsmMSqKjKPI/AAAAAAAAB_M/5XVHUGSOB_40mSh2BNN04XauCnri38f0wCLcBGAsYHQ/s200/Espiritu%2Bde%2Blucha.png" group-title="24/7 - Servidor 3",24/7 Hajime no Ippo (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359098
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jimmy Neutron (e)" tvg-logo="https://1.bp.blogspot.com/-sZJ878vGHbo/XuBV0sZmgUI/AAAAAAAAAlU/1keQK0Av-8wSJ7HZNCK4rnNKFAH5C9v5QCK4BGAsYHg/s320/jimmyneutron.png" group-title="24/7 - Servidor 3",24/7 Jimmy Neutron (e)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359099
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RUBI" tvg-logo="http://zuihaode.site:25461/images/344720e6f7c90c56093648cd8b2adb19.png" group-title="24/7 - Servidor 3",24/7 RUBI
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/226655
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BRUCE LEE" tvg-logo="http://zuihaode.site:25461/images/31c8fe8f3d3bf7aea0fbe4275cab1c74.png" group-title="24/7 - Servidor 3",24/7 | BRUCE LEE
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/284511
+#EXTINF:-1 tvg-id="" tvg-name="24/7 María Mercedes (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-lTilkZxbtW4/X0sR1YHSEuI/AAAAAAAACcI/JZ6fxlv28eM38wlKD3S6cB6GrJXkqXVOACLcBGAsYHQ/w209-h209/Maria%2BMercedes.png" group-title="24/7 - Servidor 3",24/7 María Mercedes (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359990
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La hija del Mariachi (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-yS98BRL4YQo/X3OZhv5liKI/AAAAAAAAChE/iTQCo76abpg8FJaSmGUXxZlmBJh7IzIkgCLcBGAsYHQ/w200-h200/La%2Bhija%2Bdel%2BMariachi.png" group-title="24/7 - Servidor 3",24/7 La hija del Mariachi (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359991
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Diarios De Vampiros (e)(720)" tvg-logo="https://1.bp.blogspot.com/-Txjt-u0gWbs/X3TNsMmJbDI/AAAAAAAABuo/aajSHaW_6WYe6J3owH2pl7UNTSbxIs6lQCLcBGAsYHQ/w200-h200/Vampiro.png" group-title="24/7 - Servidor 3",24/7 Diarios De Vampiros (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/359992
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINE LATINO" tvg-logo="http://daleplaypro.com:8080/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png" group-title="CINEMA",CINE HD | CINE LATINO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/366147
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Xica Da Silva (e)(720)" tvg-logo="https://1.bp.blogspot.com/-NJOc9-SWj_U/X3J0oF4n3CI/AAAAAAAACf8/68oyNbD9RcYCn2SV6X89nir5s2CKLVo4ACLcBGAsYHQ/w200-h200/Xica%2Bda%2Bsilva.png" group-title="24/7 - Servidor 3",24/7 Xica Da Silva (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367632
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Avenida Brasil (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-o-7DNVUEuAQ/X3J6bm4wnWI/AAAAAAAACgI/39dwxO8j7EgXr8zT7A2JmmTHCH1cvGAoACLcBGAsYHQ/w200-h200/Avenida%2BBrasil.png" group-title="24/7 - Servidor 3",24/7 Avenida Brasil (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367633
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Casado con hijos (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-7vkOI2PAA9A/X3KG4jr2g4I/AAAAAAAACgU/USxNFM5XzLYCpEXpVXYjPlvOK-wLIyLPQCLcBGAsYHQ/w200-h200/Casado%2BCon%2BHijos.png" group-title="24/7 - Servidor 3",24/7 Casado con hijos (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367634
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Corazon Salvaje (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-aPTvvD3c3dk/X3NkGlyCPHI/AAAAAAAACgs/GS8CyNfDHPIUnLTrpHyovlapCzhrY8NgACLcBGAsYHQ/w200-h200/Corazon%2BSalvaje.png" group-title="24/7 - Servidor 3",24/7 Corazon Salvaje (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367635
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cuna de lobos (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-0RzBYk61mqM/X3OU1bFOmwI/AAAAAAAACg4/SgHUZGI5MtYJqepBd8PMvWBzO0r5MBm-gCLcBGAsYHQ/w200-h200/Cuna%2Bde%2Blobos.png" group-title="24/7 - Servidor 3",24/7 Cuna de lobos (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/367636
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDERMAN 1997 (CLASICO)" tvg-logo="" group-title="24/7 - Servidor 3",24/7 SPIDERMAN 1997 (CLASICO)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/375161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Usurpadora (e)(SD)" tvg-logo="https://1.bp.blogspot.com/--SSS-nUEQrg/X0sR1XkPJbI/AAAAAAAACcM/dYfxRbaoANsQ8xtkwMbaBVlo3MeeeHWVQCLcBGAsYHQ/w210-h210/la%2Busurpadora.png" group-title="24/7 - Servidor 3",24/7 La Usurpadora (e)(SD)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380785
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jackie Chan (e)(HQ)" tvg-logo="https://1.bp.blogspot.com/-P69_VlVDRhA/Xx5d4AvZQQI/AAAAAAAAAi8/eLFKm5LJOswhSNYE9gTOlK5fM1QA2Y9fgCLcBGAsYHQ/w200-h200/jack.png" group-title="24/7 - Servidor 3",24/7 Jackie Chan (e)(HQ)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380786
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Glee (e)(720)" tvg-logo="https://1.bp.blogspot.com/-qFyatAehuzA/Xw46Zn7dinI/AAAAAAAACRY/-87Y8UbdiaAVqPeRjxn3jOQHfskQ5tPdwCLcBGAsYHQ/s200/glee.png" group-title="24/7 - Servidor 3",24/7 Glee (e)(720)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380787
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Universo DC (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ehi82pE0uwo/Xtk-fajn97I/AAAAAAAAAV8/OQfcpuxcEdE2dTnpulirZHhOda2-15YVACK4BGAsYHg/s640/dc_univ.png" group-title="24/7 - Servidor 3",24/7 Universo DC (e)(1080)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380791
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Universo Marvel (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-iIuHR7Dbf2g/Xj5AV5ecoGI/AAAAAAAABVE/ZkaINxNjivIXMGI--UHNlkPdIjqMJtfFwCLcBGAsYHQ/s200/marvel.png" group-title="24/7 - Servidor 3",24/7 Universo Marvel (e)(1080)
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/380794
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALERTA AEROPUERTO" tvg-logo="https://bitacoranoticias.com/wp-content/uploads/2015/01/aeropuerto.jpg" group-title="24/7 - Servidor 3",24/7 ALERTA AEROPUERTO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/381736
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DOS HOMBRES Y MEDIO " tvg-logo="https://1.bp.blogspot.com/-CNvvRR9f3JE/Xs8cZwggVSI/AAAAAAAAALA/EEPz9GMvxHo9U_TCkEm1rjxMEY9kMmK6gCK4BGAsYHg/s320/halfmen.png" group-title="24/7 - Servidor 3",24/7 DOS HOMBRES Y MEDIO 
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/384478
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II Bonanza " tvg-logo="https://1.bp.blogspot.com/-_G2TZjQkevk/Xpl1IdBbqHI/AAAAAAAABtM/hnRqD53apVYOkmYMbYZL0FYK-6O-_CBvwCLcBGAsYHQ/s200/Bonanza.png" group-title="24/7 - Servidor 3",24/7 II Bonanza 
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/386288
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHAVO ANIMADO" tvg-logo="" group-title="24/7 - Servidor 3",24/7 CHAVO ANIMADO
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/394984
+#EXTINF:-1 tvg-id="" tvg-name="24/7 II Shark Tank México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Shark_Tank_TV_logo.svg/1200px-Shark_Tank_TV_logo.svg.png" group-title="24/7 - Servidor 3",24/7 II Shark Tank México
+http://factoryplay.online:8080/BISMARCK@/BISMARCK15@/400857
