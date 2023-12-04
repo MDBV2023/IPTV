@@ -1,4 +1,214 @@
 #EXTM3U
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",TELEAMAZONAS 2
+http://redima.pro:8880/tania123/tania123/682
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP
+http://redima.pro:8880/tania123/tania123/333
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/mx/HBO.mx.png",HBO
+http://redima.pro:8880/tania123/tania123/334
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/mx/HBO2.mx.png",HBO 2
+http://redima.pro:8880/tania123/tania123/335
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png",HBO FAMILY
+http://redima.pro:8880/tania123/tania123/336
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/mx/HBO.mx.png",HBO HD
+http://redima.pro:8880/tania123/tania123/337
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png",PARAMOUT
+http://redima.pro:8880/tania123/tania123/338
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",STAR CHANNEL
+http://redima.pro:8880/tania123/tania123/342
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",STAR CHANNEL
+http://redima.pro:8880/tania123/tania123/343
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg",UNIVERSAL CINEMA HD
+http://redima.pro:8880/tania123/tania123/351
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg",UNIVERSAL PREMIERE HD
+http://redima.pro:8880/tania123/tania123/352
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png",UNIVERSAL
+http://redima.pro:8880/tania123/tania123/354
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://w7.pngwing.com/pngs/486/196/png-transparent-warner-bros-studio-tour-hollywood-logo-business-production-companies-business-television-emblem-people-thumbnail.png",WARNER CHANNEL
+http://redima.pro:8880/tania123/tania123/355
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
+http://redima.pro:8880/tania123/tania123/356
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png",A&E
+http://redima.pro:8880/tania123/tania123/357
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",TBS
+http://redima.pro:8880/tania123/tania123/358
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",TBS
+http://redima.pro:8880/tania123/tania123/359
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://uspto.report/TM/90480911/mark.png",STAR LIFE
+http://redima.pro:8880/tania123/tania123/360
+#EXTINF:-1  group-title="Servidor Tania",WARNER CHANNEL
+http://redima.pro:8880/tania123/tania123/361
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT SERIES
+http://redima.pro:8880/tania123/tania123/362
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT SERIES
+http://redima.pro:8880/tania123/tania123/363
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",TNT
+http://redima.pro:8880/tania123/tania123/364
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",TNT
+http://redima.pro:8880/tania123/tania123/365
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png",FXM
+http://redima.pro:8880/tania123/tania123/367
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINECANAL
+http://redima.pro:8880/tania123/tania123/368
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png",TCM
+http://redima.pro:8880/tania123/tania123/370
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png",TCM
+http://redima.pro:8880/tania123/tania123/371
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png",GOLDEN
+http://redima.pro:8880/tania123/tania123/372
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png",GOLDEN
+http://redima.pro:8880/tania123/tania123/373
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",GOLDEN EDGE
+http://redima.pro:8880/tania123/tania123/374
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",GOLDEN EDGE
+http://redima.pro:8880/tania123/tania123/375
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png",DPELICULAS
+http://redima.pro:8880/tania123/tania123/376
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG",SPACE
+http://redima.pro:8880/tania123/tania123/377
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG",SPACE
+http://redima.pro:8880/tania123/tania123/378
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png",MULTIPREMIER
+http://redima.pro:8880/tania123/tania123/379
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png",MULTIPREMIER
+http://redima.pro:8880/tania123/tania123/380
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png",MULTICINE
+http://redima.pro:8880/tania123/tania123/381
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
+http://redima.pro:8880/tania123/tania123/385
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+http://redima.pro:8880/tania123/tania123/388
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/es/BabyTV.es.png",││KIDS HD││INFANTIL BABY TV HD
+http://redima.pro:8880/tania123/tania123/389
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://www.babytv.com/app/uploads/2019/12/VideoIcon-round.png",BABY TV
+http://redima.pro:8880/tania123/tania123/390
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/mx/NickJr.mx.png",││KIDS││ NICK JR HD
+http://redima.pro:8880/tania123/tania123/392
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="http://3.bp.blogspot.com/-AWgh_d-SY00/UDPzV7MXwKI/AAAAAAAAItE/i36G5QrECqc/s1600/tooncast-canal-logo.jpg",TOONCAST
+http://redima.pro:8880/tania123/tania123/396
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1920px-Cartoonito_-_Logo_2021.svg.png",CARTOONITO
+http://redima.pro:8880/tania123/tania123/397
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS
+http://redima.pro:8880/tania123/tania123/398
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS
+http://redima.pro:8880/tania123/tania123/399
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",PASIONES
+http://redima.pro:8880/tania123/tania123/401
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",PASIONES
+http://redima.pro:8880/tania123/tania123/402
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",TELENOVELAS
+http://redima.pro:8880/tania123/tania123/403
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",TELENOVELAS
+http://redima.pro:8880/tania123/tania123/404
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/tania123/tania123/405
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/tania123/tania123/406
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png",TELEMUNDO
+http://redima.pro:8880/tania123/tania123/407
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png",TELEMUNDO
+http://redima.pro:8880/tania123/tania123/408
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static1.squarespace.com/static/5510630ae4b0f48d896bc4a5/55122ef1e4b0dbee04c12c49/5a4fb77e0d9297d3c33a6bb4/1515173828374/1384365569092.jpeg?format=1500w",E!
+http://redima.pro:8880/tania123/tania123/409
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png",││CULT HD││ H2
+http://redima.pro:8880/tania123/tania123/411
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png",HTV
+http://redima.pro:8880/tania123/tania123/413
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png",TLNOVELAS
+http://redima.pro:8880/tania123/tania123/415
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png",ANTENA 3
+http://redima.pro:8880/tania123/tania123/418
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN
+http://redima.pro:8880/tania123/tania123/419
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",NAT GEO WILD
+http://redima.pro:8880/tania123/tania123/420
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png",CARACOL NACIONAL
+http://redima.pro:8880/tania123/tania123/423
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png",DISCOVERY ID
+http://redima.pro:8880/tania123/tania123/424
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png",DISCOVERY ID
+http://redima.pro:8880/tania123/tania123/425
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL
+http://redima.pro:8880/tania123/tania123/426
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL
+http://redima.pro:8880/tania123/tania123/427
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png",TV AGRO
+http://redima.pro:8880/tania123/tania123/429
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET
+http://redima.pro:8880/tania123/tania123/430
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET
+http://redima.pro:8880/tania123/tania123/431
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",H&H DISCOVERY
+http://redima.pro:8880/tania123/tania123/432
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",H&H DISCOVERY
+http://redima.pro:8880/tania123/tania123/433
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",H&H DISCOVERY
+http://redima.pro:8880/tania123/tania123/434
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",H&H DISCOVERY
+http://redima.pro:8880/tania123/tania123/435
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NAT GEO
+http://redima.pro:8880/tania123/tania123/438
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NAT GEO
+http://redima.pro:8880/tania123/tania123/439
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="http://canalrumbatv.com/wp-content/uploads/2020/05/logortv.png",RUMBA TV
+http://redima.pro:8880/tania123/tania123/440
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="http://canalrumbatv.com/wp-content/uploads/2020/05/logortv.png",RUMBA TV
+http://redima.pro:8880/tania123/tania123/441
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png",TELESISTEMA 11
+http://redima.pro:8880/tania123/tania123/442
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT
+http://redima.pro:8880/tania123/tania123/443
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg",UNIVERSAL CINEMA HD
+http://redima.pro:8880/tania123/tania123/445
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png",TELESUR
+http://redima.pro:8880/tania123/tania123/446
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",DISTRITO COMEDIA
+http://redima.pro:8880/tania123/tania123/587
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddokk4t-87461def-9faf-45c2-af60-f69382b46d54.png/v1/fill/w_1192,h_670,q_70,strp/hbo_xtreme_logo_by_doublekids07_ddokk4t-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvN2E2YTMxYmMtNTI3Ni00YmQxLWIyNWMtNWQyMjk5OTA2NTFjXC9kZG9razR0LTg3NDYxZGVmLTlmYWYtNDVjMi1hZjYwLWY2OTM4MmI0NmQ1NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5iopmV-9UmS7RvbBIy-o9pE_sOTIkiOTbgePUcwsSXo",HBO XTREAM
+http://redima.pro:8880/tania123/tania123/681
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png",ECUAVISA
+http://redima.pro:8880/tania123/tania123/447
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png",ECUAVISA 2
+http://redima.pro:8880/tania123/tania123/448
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS
+http://redima.pro:8880/tania123/tania123/449
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS 2
+http://redima.pro:8880/tania123/tania123/450
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",TELEAMAZONAS 1
+http://redima.pro:8880/tania123/tania123/451
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",TELEAMAZONAS 2
+http://redima.pro:8880/tania123/tania123/452
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png",TVC
+http://redima.pro:8880/tania123/tania123/453
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png",TVC 2
+http://redima.pro:8880/tania123/tania123/454
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png",ECUADOR TV
+http://redima.pro:8880/tania123/tania123/455
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png",ECUADOR TV
+http://redima.pro:8880/tania123/tania123/456
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png",CANELA
+http://redima.pro:8880/tania123/tania123/457
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png",CANELA
+http://redima.pro:8880/tania123/tania123/458
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png",RTU
+http://redima.pro:8880/tania123/tania123/459
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png",RTU
+http://redima.pro:8880/tania123/tania123/460
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC
+http://redima.pro:8880/tania123/tania123/461
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC 2
+http://redima.pro:8880/tania123/tania123/462
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",GAMA TV
+http://redima.pro:8880/tania123/tania123/463
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",GAMA TV 2
+http://redima.pro:8880/tania123/tania123/464
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png",OROMAR
+http://redima.pro:8880/tania123/tania123/465
+#EXTINF:-1  group-title="Servidor Tania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png",OROMAR
+http://redima.pro:8880/tania123/tania123/466
+#EXTINF:-1  group-title="Servidor Tania",ONDA TV
+http://redima.pro:8880/tania123/tania123/554
+#EXTINF:-1  group-title="Servidor Tania",WARNER HD
+http://redima.pro:8880/tania123/tania123/1037
 #EXTINF:-1 group-title="Servidor 1",ANIMAL PLANET SD :UL
 http://23.148.145.82:25461/televall/R1WyjpMhlp/337
 #EXTINF:-1 group-title="Servidor 1",ARTS CLASSIC :TV
