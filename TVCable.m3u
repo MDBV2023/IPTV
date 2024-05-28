@@ -17721,3 +17721,761 @@ http://myfuturetv.com:8080/troica/654321/7202
 http://myfuturetv.com:8080/troica/654321/7203
 #EXTINF:-1 group-title="MyFutu" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/punto_2_puerto_rico-mediano.png",PR | PUNTO 2 TV
 http://myfuturetv.com:8080/troica/654321/7204
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/SWO9CKA.png",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/F17QtN2.png",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/hTUe0Pw.png",13 Festival (1080p)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music Channel
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png",51 Radio TV (480p) [Geo-blocked]
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/y4kNV3Q.png",70-80 TV (1080P)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/i3YwORV.png",88 Stereo (720p) [Not 24/7]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GY750xh.jpg",98.1 Pearl FM (720p)
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Fykhzxh.jpg",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/VCUZKiw.png",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://t.infibeam.com/img/lookandfeel/5101232/753d6e8f698e4_logo.png.999xx.png",Aditya Music (720p)
+https://ythls.armelin.one/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/425dj2i.jpeg",AE Radio TV (720p) [Not 24/7]
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/LctanF8.png",AFN TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/232ndRK.png",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/o6HSfNg.png",Aghani Aghani TV (1080p) [Not 24/7]
+https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/JdKxscs.png",AlbKanale Music TV (720p)
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://play-lh.googleusercontent.com/MYcrmTg-2FfK3mVvNsjttNsXXTLfUG7i3QjMd0fzticooxMwLMK0NQdyQSMnF0iC9lg",AMC (1080p)
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/2pAHdAi.png",Amedia 1
+http://streaming.tv-teleport.ru/A1/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/hO0cTDf.png",Amordiscos (540p)
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/sTOoDy1.png",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg",Area 809 El Original (1080p)
+https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ZbrDIbZ.png",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/O4uI0Uy.png",Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/3I1n7fO.png",Avang TV (720p)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/g1BFoSs.png",Azahares Radio Multimedia (720p)
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Woo8L6Z.png",BackusTV Music (720p) [Not 24/7]
+http://stream.backustv.ru/live/btv3/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/gWZSS8a.png",Baeble Music (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Deep House (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/jbbxu0g.png",Barbud Music (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/PDCDy0b.png",Bblack! Classik
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/zkNUO5p.png",Beats Radio (480p)
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/xEbQsdj.png",Belmedia TV (1080p)
+https://ythls.armelin.one/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/yIqOcP5.png",Bibel TV Musik (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GlpYAKt.png",BLUES TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/mcNjuuO.png",BOKTV (720p)
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
+http://streaming.tv-teleport.ru/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/sIW9oR4.png",Bridge Hits (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/MHuwct2.png",Bridge Rock (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/f9xdIlN.png",Bridge Русский хит (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/a9DXkMN.png",Bridge Шлягер (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/vygOosC.png",BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/URKDlOZ.png",Buenísima Radio TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCk20PydKzK3giq80G4mqSeg.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/CQtfBPu.png",Busuioc TV (540p)
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/3yeGDTP.png",Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/sgRDRBK.jpg",Canal 3 KMK TV (720p)
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/JWMk2fP.png",Cantina TV (1080p)
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/mFL452f.png",City TV (576p) [Not 24/7]
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/8giAFx5.png",Clubbing TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/L38mC6H.png",CMC (California Music Channel)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/FCb7Ag2.png",CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/4WK0k4D/Galeras-TV-tvtolive-com.jpg",CNC Pasto Galeras TV (720p) [Geo-blocked]
+https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/L9BjpfT/Canal-CNC-HITS-Channel-tvtolive-com.jpg",CNC Pasto Hits Channel (1024p) [Geo-blocked]
+https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg",CNC Pasto Sentimiento Vallenato (720p) [Geo-blocked]
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png",CNC Pasto Son Corazón (720p) [Geo-blocked]
+https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg",CNC Pasto Son Latino (1080p) [Geo-blocked]
+https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/MBQyccq/Canal-CNC-Son-Popular-tvtolive-com.jpg",CNC Pasto Son Popular (720p) [Geo-blocked]
+https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ccdwsWj.png",Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/qEk0QGa.png",Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/uGE6lZ2.png",Cool FM 98.9 (720p)
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png",Dance FM (720p)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/YV27Chs.png",Deejay TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/IV2Qvc0.png",DeepHouse District (1080p)
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/HimuPPb.png",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/MGKbHPT.png",Deutsches Musik Fernsehen (1080p) [Not 24/7]
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/UJqDWVB.png",Dijlah Tarab (1080p)
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/mGFVwkB.png",DSTV (614p) [Not 24/7]
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/lSpplhD.png",EBS Musika (720p)
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/tnFZY5O.png",Ecua Stereo Radio TV (1080p)
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/EMe5oWn.jpg",EcuaMundo Radio TV (720p)
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/y0ydCNB/unnamed-4.png",Ellinikos FM (720p)
+https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/euaoN1A.png",EnerGeek Radio (1080p)
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/lF0iofX.png",Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/EfNHNts.png",Exclusiv TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/YFmzkOp.png",Fabulosa Estéreo 100.5 FM (720p)
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/6B3Cims.png",Falastini TV [Geo-blocked]
+https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg",Famatv (1080p) [Not 24/7]
+https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/bXWzstH.png",Farra Play (720p) [Not 24/7]
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/pq7wX0V.png",Fen Folk (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCptENFbwjv79hmQPymnwKcA.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Seq7Od7.png",Folk Klub (720p)
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/4b9aZ9P.png",Folk TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/wayxz5S.jpg",Folklorit TV (1080p) [Not 24/7]
+https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/3WxC59H.jpg",Full Música (720p)
+https://eu1.servers10.com:8081/8060/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/z6srIMD.png",Global TV (1080p)
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/zAFt893.png",GO-RTV (720p)
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GJYb8c8.png",Guyana Music TV (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536fca3d/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/MKZCskA.png",Heart Radio Aruba (720p)
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/zhCgoru.png",High Vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/gwPaw3v.png",HMI PROMZ NEWS (720p)
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/W2rXjWd.png",Hot TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/7etSMR5.png",Ibiza Global TV (720p) [Not 24/7]
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9oEaZ9Y.png",IFM TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Fbgxqqq.png",iHeart 80s (1080p)
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Vo09eBa.png",iHeart 90s (1080p)
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/G5mNdpE.png",Impact TV Dance (1080p)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/G5mNdpE.png",Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/1nHxdkR.png",Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/1nJl0Pv.png",INTV Australia (720p)
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/yO18FLo.png",Isai Aruvi (576p)
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/JCpbUZB.png",Italianissimo (360p) [Not 24/7]
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/gKbNqQv.png",Ivoire Channel (720p)
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/lThyC3i.png",Izvorna TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCCg4AIJUdOL0A_90Mcj1ilA.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",Joe FM (720p) [Not 24/7]
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/KHuKQQL.png",JooMusic (720p)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",JRTV Järviradio (720p)
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ZDXVWVQ.png",Kalaignar Murasu (576p) [Not 24/7]
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/cCFxyIp.jpg",KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/7VcFGkx.png",Kayo Pops (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/NKfVymH.png",Kiss TV (1080p)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/sKj3dgc.png",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV (720p)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/dQJQv1X.png",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Zl40NYi.jpg",Kuriakos Music (1080p)
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GHJkxaB.png",La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/7Wlt6bc.png",La Hermandad Salsera (1080p) [Not 24/7]
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/nkgOsSv.jpg",La Luperrona Ciudad Guzmán (240p)
+https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/hubV9nC.jpg",La Luperrona Colima (256p)
+https://stream.oursnetworktv.com/radio/luperrona415/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/URMA6lE.jpg",La Luperrona Ocotlán (300p)
+https://stream.oursnetworktv.com/radio/luperronaocotlan/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/XIwTM1h.png",LA MIA TV (720p) [Not 24/7]
+https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ZqwLPag.jpg",La Top 102.9 (720p)
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/vgHhh1W.jpg",La Top 107.7 (720p)
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Ku1CEeb.png",La Voz Grupera TV (720p)
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/i2GnQTq.png",La-X (720p)
+https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/LHnkFND.png",Latina Mix Radio Tv (360p)
+https://srv.panelcast.net/latinamixtvtv2021/latinamixtvtv2021/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/hBswXYZ.png",LiraTV (720p)
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/DCZKAQ1.png",Littoral FM (720p)
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/eT7iE34.png",Look Thoong TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/B8iaejQ.png",Love TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/cESeD6R.png",Luna Estéreo 106.4 FM (720p) [Not 24/7]
+https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/AfcBWCg.png",M2 (540p)
+https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",m2o TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/R74gG7U.png",Magenta Musik 360 (1080p)
+https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/QZQhg6C.png",Magic TV (480p)
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/n7bcrrp.png",Magic TV (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/4QLjUGO.png",Magic TV (720p)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/y0h8dlX.png",Mas23 TV (1080p)
+https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/TJ4gWQM.png",Más FM 95.9 (720p)
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/haXHFCT.png",Master Show TV (360p)
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/lxgXHx4.png",Mastiii
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/7oLUSeO.png",Mayotte One TV (1080p)
+https://live.mytv.yt:3946/multi_web/play.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/JqaW7Ei.png",MegaBox (720p) [Not 24/7]
+https://hdbox.chunklistv.com/live?stream=megabox
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/z2pisQ6.png",Melody Channel Colombia (540p)
+https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/J8omcNz.png",Melody FM Jordan (720p) [Not 24/7]
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/RWC55w7.png",Memorias TV (480p)
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/yID5T2S.jpg",Metropoli Medios TV (720p)
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/dPSFrCs.png",Miel TV (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GDUykah.png",Mosaïque FM (480p) [Not 24/7]
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/e38DNzI.png",Mun2TV (720p)
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/fBeaJoS.png",Muzangala TV (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV (720p)
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/pxBYNNS/channels4-profile-1.jpg",NevoMusic (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/Vwnz1Mw/channels4-profile-3.jpg",NevoMusicTj (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCXvGJ608Y8TgJ8lKLv-2WOg.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/krp3kgv.png",NogoumFMTV (672p) [Not 24/7]
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/YyPnMeB.png",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GuM4GnX.png",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/sF2g7KE.png",Now TV 102.3FM Edmonton (CKNO-FM)
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/3arWh0k.png",Music Box Gold (576p) [Geo-blocked]
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/kXTCYqg.png",Music India (576p) [Not 24/7]
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/HmCI5mk.png",Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9dz8MsD.png",MUZZIK (720p)
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik ELECTRO (720p)
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik FLASHBACK (720p)
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik MOBA (720p)
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/E9ha9Or.png",Muzzik POP STAR (720p)
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik SENSE (720p)
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik TIKTAK (720p)
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik ZZ TV (720p)
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/sy1BDNK.png",Muzzik Rock&Roll (720p)
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png",Óčko (540p)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png",Óčko Expres (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/nrWNyLc.jpg",Óčko Gold (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",ON FM (720p)
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-one-103-7/play_250_250.jpg",OneRadio TV (1080p) [Not 24/7]
+https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/n3PweBQ.png",Oxigeno TV (360p) [Not 24/7]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/qj1qBn1.png",Panavisión (1080p)
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/13C3CPr.png",Panik TV (1080p)
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/JkDD3bK.png",Panorama FM (1080p)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/xy7W0wD.png",Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/SHxxi5I.png",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/ThGc7d5/Persiana-Rap.png",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/yqq5PlP.png",Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/8ZIBs8l.png",Planet 100.9 FM (1080p)
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/JWFOYuD.png",Play TV (480p) [Not 24/7]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/1dmBqpf.png",Play TV (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/hnmxBPZ.png",Pluto TV CMT (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dcc42446750e200093b15e2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=182&terminate=false&userId=
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9ysjkkL.png",Pluto TV CMT Equal Play (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/zoa7AIO.png",Pluto TV Live Music Replay (720p)
+https://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/WsQRCmZ.png",Pluto TV MTV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/AOaZmlS.png",Pluto TV MTV Biggest Pop (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/NPavpts.png",Pluto TV MTV Classic (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/mioQAZS.png",Pluto TV MTV Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ZVQ6URS.png",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",Pluto TV VEVO 2K (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",Pluto TV VEVO 70's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",Pluto TV VEVO 80's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg",Pluto TV VEVO 90's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",Pluto TV VEVO Country (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/dZHktKR.png",Pluto TV Vevo Pop (1080p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",Pluto TV VEVO R&B (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg",Pluto TV VEVO Reggeaton & Trap (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/wgwEzFo.png",Pluto TV VH1 Classics (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/vZ3knKt.png",Pluto TV VH1 Hip Hop Family (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/0vSFVw6.png",Pluto TV VH1 I Love Reality (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/AbrHI7K.png",PMC (1080p)
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/kuYMKgG.png",PMC Royale (720p) [Not 24/7]
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/LQB6G3s.jpg",POP World TV (720p)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/QpPteBO.png",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GOlQbfC.png",Power Hit Radio (720p) [Not 24/7]
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/0RzUswR.png",Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/driabBO.png",Power Türk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/tQSoQXW.png",Power Türk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/a5nW3HU.png",Power Türk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/KFBjTDa.png",Princesa Estéreo TV (720p)
+https://cp.panelchs.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/C0y7yFJ/Ptc-Dhol-tv.jpg",PTC Dhol (720p)
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/8PHk66Q.png",PTC Music (720p)
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/0xS5lNT.png",Public Music (576p) [Not 24/7]
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/VX5e9Xt.png",Q-Music (1080p)
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/IRyFTWq.png",Qello Concerts by Stingray
+https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/fMTuqDu.png",Qmusic (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/DjgNNHK.png",QwestTV
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/wn9g4PY.png",Radar TV 71 (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/u8OhwI1.png",Radio 21 TV (720p)
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/N00aS3x.png",Radio Alegria 98.5 FM (720p)
+https://video.compuwebecuador.com:3880/stream/play.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/IvZtqyz.png",Radio Bonita 106.7 (720p)
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/32mmGvB.png",Radio Contact (1080p)
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/qZzSOeU.png",Radio Cuenca Estéreo (720p)
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Up1u4TH.png",Radio El Pueblo (480p)
+https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/mpcIbrH.jpg",Radio Fantástica 98.9 FM (1080p)
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",Radio Imagen 105.1 FM (720p) [Not 24/7]
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/a1zuW2C.png",Radio Javan TV (1080p)
+http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/41eE8fl.png",Radio Lola (720p) [Not 24/7]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/a97MaV2.png",Radio Monumental TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Lid5RTv.png",Radio Onda Digital
+https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/hbqVWV4.png",Radio Piter Pan TV (720p) [Not 24/7]
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/UoLjSvx.png",Radio PROS (720p) [Not 24/7]
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/2aAOXZE.jpg",Radio Pykasú TV (720p)
+https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/L9KCdTX.png",Radio Realpolitik (720p)
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/TVoTQBX.png",Radio Reforma Se Oye (720p)
+https://www.streaming507.net:19360/mevo2/mevo2.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GPoIN7H.png",Radio Rocafuerte TV (720p)
+https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ANK36EQ.png",Radio Stad den Haag (720p)
+https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",Radio Télé Hit (480p)
+https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/TBPVOBI.png",Radio Tropical Tarapoto (480p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/pCz7ifY.jpg",Radio TV Sal One (720p)
+https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/tsdrrV9.png",Radio TV Tendencias (1080p) [Not 24/7]
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/1rfoSt8.png",Radio y Televisión Budokan (352p)
+https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/vTpfxUG.png",Rararadio (720p)
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/1Lk8P1x/1-150x150.png",RedMusic (720p)
+https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/pyOjdZs.png",Retro Music Television (360p)
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/fkCasXI.png",Retro Plus HD (720p)
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/YmFjnsF.png",Reyali (614p)
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/lV8M3nn.jpg",RHT Guadeloupe (720p)
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/JoPywOp.png",Rock TV (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Y9miDQo.png",Rock TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/O1c6wpt.png",RTL Today Radio (720p)
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x50681",RTV Music (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/EqUfEAh.png",RTV Vida (1080p)
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/snbcCWi.png",Rumba 98.5 FM (720p)
+https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png",Russian Music Box (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640",Salto Brasa Music (1080p)
+https://salto-streams.nl/hls/sotv1.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/QB3tz0d.png",SanjuaneraTV (720p) [Not 24/7]
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/189FW4H.png",Sehara TV (720p)
+http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ya5xpUL.png",Sky Folk TV (720p) [Not 24/7]
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/0iPU3JE.png",SL48 TV (576p)
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/rbJrmPw.png",Sol Música (720p)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/SImJE7c.png",SoloBáilalo (480p)
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/nM7LbmV.png",SONGTV Armenia (720p)
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg",SOY Plancha TV (720p)
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/PjjkT9P.png",Space Shower TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/0zCt8e4.png",SpektraTV (720p)
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://star101.gu/images/fb_icon.jpg",Star 101 FM (KNUT Guam) [Not 24/7]
+https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/fM7FUgk.png",Star Folk (1080p)
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/1mawJQX.png",Stingray Ambience (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/FBgu8yB.png",Stingray Classic Rock
+https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
+https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",Stingray DJAZZ
+https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",Stingray Easy Listening
+https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/jf5C9QF.png",Stingray Flashback 70s
+https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Greatest Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",Stingray Hip Hop
+https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/lgpIwId.png",Stingray Hit List (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/4xVVKH8.png",Stingray Holiday Hits (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/PZhxyIT.png",Stingray Hot Country
+https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/9TLTLS3.png",Stingray Karaoke (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Tq3I0po.png",Stingray Nothin' But 90s
+https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/H2ugC9L.png",Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/duwc8E8.png",Stingray Remember the 80s
+https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/6E3wYrb.png",Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/mt8ulVX.png",Stingray Rock Alternative (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",Stingray Romance Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/h1DsOzH.png",Stingray Smooth Jazz
+https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ywAN923.png",Stingray The Spa (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/mMbntB5.png",Stingray Today's K-Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Os3kRRP.png",Stingray Today's Latin Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Os3kRRP.png",Stingray Urban Beat (1080p)
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/rFQuAEv.png",STZ Telebista (1080p)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ocTnqi7.png",Súper Q Panamá (1080p)
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/pzxUE0O.png",Super TV (576p)
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/GyxXMDv.png",Techno Warehouse (US) (1080p) [Not 24/7]
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Nz67Uq6.png",Telemúsica TV (540p)
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/wFC6Xxq.png",Televisora de Oriente (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/eAagwLW.png",Tezaur TV (1080p)
+http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/0moSF3t.png",The Base Gospel TV (360p)
+https://asiakwa.com/thebasetv/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/t3i1HtE.jpg",The Retro Channel (1080p)
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/OoJSmoj.png",The Voice TV (720p)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/VKY4q64.png",Tiankov Folk (576p)
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/33LexyP.png",Tiankov Orient Folk (576p)
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/1iOAl2j.png",TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/UJqbKEC.png",Top TV (1080p)
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/0Dh1FJZ.png",TopEstrada TV (720p)
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/5j8z6cc.png",Toyor Al-Jannah (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/xRJDVR3.png",Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png",Traditional TV (1080p)
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/5rPdHhb.png",Tropi Q 99.7 FM (1080p)
+https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/h48pwLn.png",Tropical Music TV (720p)
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/HnjUjog.png",Tu Música HD (1080p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Ap7l2jC.png",Türkmen Owazy (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/zLRzyVS.png",TV Arbëria 4 Muzikë (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/zLRzyVS.png",TV Arbëria Retro Hits (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/gmSu21X.jpg",TV Cidade (614p)
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/qZV3JW5.png",TV Duga Plus (480p) [Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/m50qAVY.png",TV Peruanísima (720p) [Not 24/7]
+https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/dht94P4.png",TVUNO (720p)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/KVVU9PI.png",Urbano TV (720p)
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/PXGqyLn.png",V2BEAT (720p) [Not 24/7]
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/WIACJSy.png",V Classic TV (720p)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/etr1k08.png",Vaanavil TV (720p)
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/0bqJksL.png",Vepaco TV (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png",Verbena TV (1080p)
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/zEi8eMC.png",Video Tour Channel (480p) [Not 24/7]
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music (720p)
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/6N0qITv.png",VIP TV (720p)
+https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/e1b0TTP.png",Virtual TV (720p)
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/HV5tgcM.png",Visión Televisión (720p)
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Dvo1b82.png",VM Latino (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/HzGs1Eh.png",VoiceOver Radio TV (720p)
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/EsWuCJ3.png",Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/294FDCB.png",Vos y TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/nLtiXNf.png",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/tEzppGC.png",Worldwide Muzzik (720p)
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/T9UpqSC.png",Xalastra TV (480p)
+https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/jxuwGRi.png",Xite (720p)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/o7MCfuA.jpg",Xpresso Joven Radio (720p)
+https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Ty7GkoN.png",XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/450px-YleX.svg.png",YleX Studio Live (720p)
+https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/vrjACvy.png",ZFM Zoetermeer (720p)
+https://zfmzoetermeer.nl/live/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/31MPLIL.png",БелМузТВ
+http://178.124.179.122:8088/BelMuzTV/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/19R470V.png",Жар Птица (404p) [Geo-blocked]
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/RH6hTWG.png",Ля-Минор
+http://camera.global-x.ru/Lya-Minor/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Pg7K7eV.png",Матур ТВ (1080p)
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз ТВ
+http://stream01.vnet.am/MuzTv/mono.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/U0vKj3P.png",Музыка Первого
+http://streaming.tv-teleport.ru/Muzika_Pervogo/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/YdyFJrl.png",Первый Музыкальный Канал HD (1080p)
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/rEo7nR1.png",Первый Музыкальный Канал Россия HD (1080p)
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/5xKqV1s.png",Радио Хит (Орск) (720p)
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/lbqM3K2.png",Радио Шансон (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/WsPlKJJ.png",Страна ФМ
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://www.utrk.kg/img/stream/45.png",УТРК Музыка (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/mUrZz9O.png",Onda 15 TV (224p)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/6HxLUQd.png",Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://lingkartv.com/assets/img/logo-square.png",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/iBcqT8L.png",Three Angels Broadcasting Network Praise Him Music Network (3ABN) (720p)
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/Puk1Bhx.png",Муз союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica",AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/ah14ah0.png",Visual Radio (576p) [Not 24/7]
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/nQwXaef.png",Videolina (Sardegna) (404p) [Not 24/7]
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+#EXTINF:-1 group-title="Varios Musica",VH1
+http://170.254.18.106/VH1/index.m3u8
+#EXTINF:-1 group-title="Varios Musica",VH1+ Canzoni Italiane (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Varios Musica",VH1+ Music Legends Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Varios Musica",VH1+ Rock Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Varios Musica",The Ultimate Music Channel (1080p)
+https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
+#EXTINF:-1 group-title="Varios Musica",Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/tCg7owd.png",MasMusica FM (720p)
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 group-title="Varios Musica" tvg-logo="https://i.imgur.com/vPxvbVv.png",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 group-title="Varios Musica",Canela Music Presents
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
