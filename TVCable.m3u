@@ -8325,3 +8325,155 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Servidor Varios" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-50-morteros_1.png",50
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1120.png",América
+https://is.gd/5ny4Z0
+#EXTINF:-1 group-title="Varios" tvg-logo="https://i.imgur.com/bs4truU.png",ARGENTINISIMA
+https://is.gd/NQal1m
+#EXTINF:-1 group-title="Varios" tvg-logo="https://www.babytv.com/app/uploads/2019/12/VideoIcon-round.png",Baby
+https://is.gd/pZH4Kt
+#EXTINF:-1 group-title="TVHomeSmart" tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png",BayreTV | AR
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="181.119",CANAL 8
+http://181.119.85.222:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://static.wixstatic.com/media/526a76_1ee76d90c9bd4423ad363454ea60cebf~mv2.jpg",CANAL 9 IXCHIGUÁN | GT
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 group-title="Varios",Coleccion 007
+https://dl.dropbox.com/s/bsk3yxqgazg79s0/COLE007.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Blade
+https://dl.dropbox.com/s/hh9ur2duwizthxv/COLEBLAD3.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Crepusculo
+https://dl.dropbox.com/s/ew830ge1x0ixkre/COLECREPU.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Depredador
+https://dl.dropbox.com/s/uo7u3hyqcw30w9a/COLEDEPREDADOR.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Destino Final
+https://dl.dropbox.com/s/ow0yowq2f6hfi39/COLEDESTINO.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Fragmentado
+https://dl.dropbox.com/s/h0xay3zjszdo6ua/COLEFR4GMENT4DO.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Harry Potter
+https://dl.dropbox.com/s/s015fswwaoast67/COLEHARRYPOTT3R.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Hombres de Negro
+https://dl.dropbox.com/s/57o6kcnj0f2x89f/COLEHOMBR3SDENEGRO.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Jurasic Park
+https://dl.dropbox.com/s/v1um7szqrq85f8q/COLEJURASSIC.M3U
+#EXTINF:-1 group-title="Varios",Coleccion latino
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/colecciones/studio-ghibli-latino.m3u
+#EXTINF:-1 group-title="Varios",Coleccion Los Focker
+https://dl.dropbox.com/s/1aagcamf6w3b35n/COLETHEFOCKERS.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Los juegos del hambre
+https://dl.dropbox.com/s/g2f6qe23hoi2b93/COLELOSJUEGOSDELH4MBRE.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Matrix
+https://dl.dropbox.com/s/nhorkl75vfi9q24/COLEMATRIX.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Maze runner
+https://dl.dropbox.com/s/1ztanzi5mufm7e0/COLEMAZE.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Pesadilla en Elm Street
+https://dl.dropbox.com/s/ip05rhs5rb34sax/COLEPESADILLAENELM.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Rec
+https://dl.dropbox.com/s/seqvp2qasjt8ai0/COLEREC.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Resident evil
+https://dl.dropbox.com/s/92t06xo981701v3/COLERESIDENT3VIL.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Saw
+https://dl.dropbox.com/s/racjg6rhpbwcfos/COLESAW.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Semana Santa
+https://dl.dropbox.com/s/nqbaawh0e0ahi33/COLESEMANASANTA.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Terminator
+https://dl.dropbox.com/s/g694rv3um7bsfe5/COLETERMINATOR.M3U
+#EXTINF:-1 group-title="Varios",Coleccion Un detective suelto en Hollywood
+https://dl.dropbox.com/s/tp3pqy7uazah11v/COLEDETECTIVESUELTO.M3U
+#EXTINF:-1 group-title="Servidor Varios" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",CosmoTV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="TVHomeSmart" tvg-logo="https://cdn.m3u.cl/logo/1143_Cosmos_TV.png",CosmoTV | AR
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Varios",DOCUMENTALES
+https://raw.githubusercontent.com/david2803/Iptv/main/53riesD0cu3ntal3s.m3u
+#EXTINF:-1 group-title="Varios",Fantasia
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/FANTASIA.m3u
+#EXTINF:-1 group-title="Varios" tvg-logo="https://static.wixstatic.com/media/526a76_d696844d1b49413d91aadba9ad6e8c5f~mv2.jpg",FARO VISIÓN | DO
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://imgur.com/XLYoL4t.jpg",freetv.com - FreeTV 8.2
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/El-Garage-TV-en-VIVO-Online-1.png?fit=1920%2C1080&ssl=1",Garage TV
+https://is.gd/fW1tmt
+#EXTINF:-1 group-title="TVHomeSmart" tvg-logo="https://cdn.m3u.cl/logo/1535_Gogo_Play_Bolivia_HD.png",Gogo Play Bolivia HD | BO
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Varios",Infantil
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.imgur.com/vUHAWAJ.png",Love Nature
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 group-title="Varios",Mexicanas
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/MEXICANAS.m3u
+#EXTINF:-1 group-title="TV Latino" tvg-logo="http://tvlatino.club:2082/images/6430f99e9aeb3b96985e83d957474143.png",NATGEO WILD FHD
+http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/341994
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.imgur.com/vUHAWAJ.png",Naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.imgur.com/vUHAWAJ.png",Naturaleza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Varios",Peliculas COMEDIA
+https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_comedia.m3u
+#EXTINF:-1 group-title="Varios",Peliculas DRAMA
+https://raw.githubusercontent.com/david2803/Iptv/main/dr%40m9.m3u
+#EXTINF:-1 group-title="Varios",Peliculas FICCION
+https://raw.githubusercontent.com/david2803/Iptv/main/f1cc10n.m3u
+#EXTINF:-1 group-title="Varios",Peliculas MARVEL
+https://raw.githubusercontent.com/david2803/Iptv/main/m%40rv31.m3u
+#EXTINF:-1 group-title="Varios",Peliculas RECUERDOS
+https://raw.githubusercontent.com/david2803/Iptv/main/r0m%40nt1c5.m3u
+#EXTINF:-1 group-title="Varios",Peliculas TERROR
+https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_terror.m3u
+#EXTINF:-1 group-title="Varios",Peliculas VIP 2
+https://raw.githubusercontent.com/david2803/Iptv/main/V%40r1%40d5.m3u
+#EXTINF:-1 group-title="Varios",Pluto TV
+https://dl.dropbox.com/s/slhsvvf5i9387z5/PLUTOTV.M3U
+#EXTINF:-1 group-title="Varios",Romanticas
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/ROMANTICAS.m3u
+#EXTINF:-1 group-title="Varios",Sports
+https://raw.githubusercontent.com/LeoDe1vid/FutLibre_IPTV/main/Sports_channels.m3u8
+#EXTINF:-1 group-title="Varios",SPORTS 4
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Varios",Super Heroes
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/SUPER_HEROES.m3u
+#EXTINF:-1 group-title="Varios" tvg-logo="https://www.telcocom.com.ar/img/canales/telemundo-internacional.png",Telemundo
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:-1 group-title="Varios",Terror
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/TERROR.m3u
+#EXTINF:-1 group-title="Varios",TV MUNDIAL 1
+https://raw.githubusercontent.com/david2803/Iptv/main/tv0nl1n3.m3u
+#EXTINF:-1 group-title="Varios",TV MUNDIAL 2
+https://raw.githubusercontent.com/david2803/Iptv/main/tvAuxiliar000.m3u
+#EXTINF:-1 group-title="Varios" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/002/490/496/small/old-retro-tv-isolated-icon-free-vector.jpg",TV RETRO
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1 group-title="Varios",TV SUDAMERICA
+https://raw.githubusercontent.com/david2803/Iptv/main/K%26D_tv.m3u
+#EXTINF:-1 group-title="Varios" tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/unife_1.png",Unife
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7539.png",ViP Sport 1 HD
+http://de.seetv.cc/play/5009/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 10 HD
+http://de.seetv.cc/play/5018/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 11 HD
+http://de.seetv.cc/play/5019/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 12 HD
+http://de.seetv.cc/play/5020/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 13 HD
+http://de.seetv.cc/play/5021/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7540.png",ViP Sport 2 HD
+http://de.seetv.cc/play/5010/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7541.png",ViP Sport 3 HD
+http://de.seetv.cc/play/5011/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 5 HD
+http://de.seetv.cc/play/5013/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 6 HD
+http://de.seetv.cc/play/5014/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 7 HD
+http://de.seetv.cc/play/5015/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 8 HD
+http://de.seetv.cc/play/5016/9195C9EF9216242/video.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg",VISIÓN TV | GT
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 group-title="Cord-Radio",WCEF 98.3 ThBull live
+http://fortv.cc:8080/90820916/64752029/139118
+#EXTINF:-1 group-title="Cord-Radio",WSPC Newstalk 1010 AM live
+http://fortv.cc:8080/90820916/64752029/123996
+#EXTINF:-1 group-title="Cord-Radio",WZKY Stereo 1580 AM live
+http://fortv.cc:8080/90820916/64752029/138536
