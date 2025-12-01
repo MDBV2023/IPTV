@@ -8223,3 +8223,27 @@ http://179.51.136.19:8000/play/a18s/index.m3u8
 http://179.51.136.19:8000/play/a18r/index.m3u8
 #EXTINF:-1 group-title="Test 1",DSPORTS 3
 http://179.51.136.19:8000/play/a113/index.m3u8
+#EXTINF:-1 group-title="181.119",TELNOSTALGIA
+http://181.119.86.68:8000/play/b053/index.m3u8
+#EXTINF:-1 group-title="Varios",HBO XTREME
+http://200.92.227.238:8000/play/a0mu/index.m3u8
+#EXTINF:-1 group-title="SOME" tvg-logo="https://i.imgur.com/cu7hTn8.png",Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://cdn.m3u.cl/logo/1546_Tele_Selva.png",Tele Selva | PE
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="SOME" tvg-logo="https://i.imgur.com/294FDCB.png",Vos y TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 group-title="SOME" tvg-logo="https://comteco.com.bo/img/upload/canales/qvJQXi.png",Cinecanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="SOME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",History 2 Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 group-title="SOME" tvg-logo="https://i.imgur.com/NlKFNHS.png",HTV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+#EXTINF:-1 group-title="SOME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="SOME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png",Studio Universal Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="SOME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",USA Network Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+#EXTINF:-1 group-title="TVHomeSmart" tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png",CaraTV | AR
+https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
