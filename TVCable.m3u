@@ -40793,3 +40793,25 @@ https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8?PlaylistM3UCL
 https://ythls.armelin.one/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv.diablot-3" tvg-logo="https://i.imgur.com/jxCirrP.png",GlobovisiónGrande TV
 http://tv.diablotv.net:8080/robertoastuillo/95vbanNQGn/160498?PlayListM3UCL
+#EXTINF:-1 group-title="redworld.pro:888-2" tvg-logo="http://redworld.pro:8880/images/a8ef32c75f19592c1f1eff28dbc09a40.png",MX | Televisa Monterrey
+http://redworld.pro:8880/Isabel/KAzqMLMa63kR/448449?PlayListM3UCL
+#EXTINF:-1 group-title="tv.diablot-3" tvg-logo="https://i.postimg.cc/nh6pbywn/Proyecto-X-Panama-8.png",Cable Onda Sports FC 1270
+http://tv.diablotv.net:8080/robertoastuillo/95vbanNQGn/154352
+#EXTINF:-1 group-title="Chiquis 14" tvg-logo="https://i.imgur.com/QIGSf4L.png",Litus TV (720p)
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 group-title="Chiquis 14" tvg-logo="https://i.imgur.com/QIGSf4L.png",Litus TV
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="canal-pro.xyz:808-23" tvg-logo="https://i.ibb.co/QYC7hys/LA2.png",ES | La 2 HD
+http://canal-pro.xyz:8080/982298588tv/sr417z/236481
+#EXTINF:-1 group-title="tv.diablot" tvg-logo="https://i.imgur.com/1voWgLI.png",COL-Ultra Casanare TV (W)(720)
+http://tv.diablotv.net:8080/live/TA6PCPrrau/4UMvCVrsM7/160875.m3u8
+#EXTINF:-1 group-title="tv.diablot-3" tvg-logo="https://i.imgur.com/1voWgLI.png",Ultra Casanare TV (W)
+http://tv.diablotv.net:8080/robertoastuillo/95vbanNQGn/160875
+#EXTINF:-1 group-title="tv.diablot-3" tvg-logo="https://i.imgur.com/1voWgLI.png",Ultra Casanare TV (W)
+http://tv.diablotv.net:8080/robertoastuillo/95vbanNQGn/160875?PlayListM3UCL
+#EXTINF:-1 group-title="tv.zapping-3" tvg-logo="https://i.imgur.com/1voWgLI.png",COL-Ultra Casanare TV (W)(720)
+http://tv.zapping.life:8080/oscarm0811/wason11tonces/160875?PlayListM3UCL
+#EXTINF:-1 group-title="Chiquis 7",Ultra Casanare TV
+https://eu1.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 group-title="Chiquis 7",Ultra Casanare TV
+https://eu1.servers10.com:8081/8072/index.m3u8?PlaylistM3UCL
