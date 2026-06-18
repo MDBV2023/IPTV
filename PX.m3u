@@ -8543,3 +8543,61 @@ https://xc.adultiptv.net/live/RJP7z14i/XNOYtPRQeX/32511.m3u8?PlayListM3UCL
 https://xc.adultiptv.net/live/RJP7z14i/XNOYtPRQeX/48880.m3u8?PlayListM3UCL
 #EXTINF:-1 ,jaxx12369
 https://xc.adultiptv.net/live/RJP7z14i/XNOYtPRQeX/72487.m3u8?PlayListM3UCL
+#EXTINF:-1 group-title="201.77.60.62",PLAY BOY
+http://201.77.60.62:8002/play/a09a/index.m3u8?hls
+#EXTINF:-1 group-title="38.65.175.116",PLAY BOY
+http://38.65.175.116:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="181.78.50.191",Playboy
+http://181.78.50.191:7225/play/a01a
+#EXTINF:-1 group-title="186.33.25.234",Playboy
+http://186.33.25.234:8125/play/a07k/index.m3u8
+#EXTINF:-1 group-title="200.59.191.177",Playboy
+http://200.59.191.177:8000/play/a0p3/index.m3u8?hls
+#EXTINF:-1 group-title="200.59.191.177",Playboy
+http://200.59.191.177:8000/play/a0p3/index.m3u8?hlsEspn%20premium
+#EXTINF:-1 group-title="45.166.93.156",Playboy
+http://45.166.93.156:9999/play/a0ir/index.m3u8
+#EXTINF:-1 group-title="24.152.42.29",PLAYBOY
+http://24.152.42.29:8000/play/a02z/index.m3u8?hls
+#EXTINF:-1 group-title="181.224.255.210",Playboy HD
+http://181.224.255.210:8001/play/a0lo/index.m3u8?hls
+#EXTINF:-1 group-title="186.33.52.206",Playboy HD
+http://186.33.52.206:7900/play/a0qz/index.m3u8?hls
+#EXTINF:-1 group-title="190.60.48.151",Playboy HD
+http://190.60.48.151:8010/play/a0by/index.m3u8
+#EXTINF:-1 group-title="38.199.4.105",Playboy HD
+http://38.199.4.105:9999/play/a0pm/index.m3u8
+#EXTINF:-1 group-title="38.226.49.253",Playboy HD
+http://38.226.49.253:8000/play/a0e6/index.m3u8?hls
+#EXTINF:-1 group-title="186.33.52.206",Venus
+http://186.33.52.206:7900/play/a0qy/index.m3u8?hls
+#EXTINF:-1 group-title="200.59.191.177",Venus
+http://200.59.191.177:8000/play/a0kw/index.m3u8?hls
+#EXTINF:-1 group-title="200.59.191.177",Venus
+http://200.59.191.177:8000/play/a0kw/index.m3u8?hlsEspn%20premium
+#EXTINF:-1 group-title="24.152.42.29",Venus
+http://24.152.42.29:8000/play/a019/index.m3u8?hls
+#EXTINF:-1 group-title="38.199.4.105",Venus
+http://38.199.4.105:9999/play/a0wr/index.m3u8
+#EXTINF:-1 group-title="38.226.49.253",Venus
+http://38.226.49.253:8000/play/a0eh/index.m3u8?hls
+#EXTINF:-1 group-title="181.78.50.191",VENUS
+http://181.78.50.191:7225/play/a077
+#EXTINF:-1 group-title="186.33.25.234",VENUS
+http://186.33.25.234:8125/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="201.77.60.62",VENUS
+http://201.77.60.62:8002/play/a09b/index.m3u8?hls
+#EXTINF:-1 group-title="38.65.175.116",VENUS
+http://38.65.175.116:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="45.166.93.156",VENUS
+http://45.166.93.156:9999/play/a0if/index.m3u8
+#EXTINF:-1 group-title="190.61.43.118",Playboy HD
+http://190.61.43.118:45000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="201.240.104.137",80  PLAY BOY  HD 10728 V  (clone)
+http://201.240.104.137:8000/play/a0ak/index.m3u8?hls
+#EXTINF:-1 group-title="8.243.126.131",Playboy
+http://8.243.126.131:8000/play/a0f8/index.m3u8?hls
+#EXTINF:-1 group-title="8.243.126.131",VENUS
+http://8.243.126.131:8000/play/a0jy/index.m3u8?hls
+#EXTINF:-1 group-title="200.60.124.25",CANALXXX
+http://200.60.124.25:8000/play/a0nk/index.m3u8?hls
