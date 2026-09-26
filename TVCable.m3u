@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="186.33.1.71",EURO Channel
+http://186.33.1.71:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="186.33.0.57",EURO Channel
+http://186.33.0.57:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="181.119.215.61",EURO Channel
+http://181.119.215.61:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="181.78.49.179",EURO Channel
+http://181.78.49.179:8000/play/a02f
+#EXTINF:-1 group-title="38.224.22.255",EURO Channel
+http://38.224.22.255:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="45.5.116.228",EURO Channel
+http://45.5.116.228:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="38.190.1202:80",A&E HD
 http://38.190.100.202:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="38.190.1202:80",AMC HD
